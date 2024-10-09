@@ -1,0 +1,44 @@
+﻿l_russian:
+
+ chief_eunuch_court_position_han:0 "Главный евнух"
+ keeper_of_swans_court_position_han:0 "Хранитель лебедей"
+ court_jester_court_position_han:0 "Придворный шут"
+
+zongbo_court_position:0 "Зонгбо"
+taifu_court_position:0 "Тайфу"
+hanlin_court_position:0 "Ханлин"
+shizhong_court_position:0 "Шижонг
+eagle_court_position:0 "Хранитель орла"
+dali_court_position:0 "Да Ли Сы"
+
+court_physician_court_position_han:0 "Придворный врач"
+cultural_emissary_court_position_han:0 "Культурный эмиссар"
+master_of_horse_court_position_han:0 "Мастер коневодства"
+court_jester_court_position_han:0 "Придворный шут"
+master_of_hunt_court_position_han:0 "Мастер охоты"
+high_almoner_court_position_han:0 "Высший раздатчик"
+seneschal_court_position_han:0 "Шэньши"
+antiquarian_court_position_han:0 "Антикварий"
+court_tutor_court_position_han:0 "Придворный учитель"
+royal_architect_court_position_han:0 "Придворный архитектор"
+court_poet_court_position_han:0 "Придворный поэт"
+bodyguard_court_position_han:0 "Телохранитель"
+court_musician_court_position_han:0 "Придворный музыкант"
+lady_in_waiting_court_position_han:0 "Придворная дама"
+court_artificer_court_position_han:0 "Придворный мастер"
+executioner_court_position_han:0 "Палач"
+champion_court_position_han:0 "Чемпион"
+cupbearer_court_position_han:0 "Виночерпий"
+food_taster_court_position_han:0 "Дегустатор блюд"
+court_gardener_court_position_han:0 "Придворный садовник"
+travel_leader_court_position_han:0 "Придворный проводник"
+chronicler_court_position_han:0 Летописец"
+
+zongbo_court_position_desc:1 "Цзунбо, также известный как Цзунчжэн, - член императорской семьи, отвечающий за ритуалы клана и имеющий большое значение в императорской семье."
+hanlin_court_position_desc:1 "Посланники Академии Ханьлинь, ответственные за составление императорских указов и составление канонических текстов, которым император доверяет конфиденциальные дела."
+shizhong_court_position_desc:1 "Бакалавры секретарской канцелярии следовали за императором и отвечали за запись фактических записей о живых, приукрашивание указов, а также сопровождали императора в кризисные моменты."
+ court_physician_court_position_desc:1 "Должность $court_physician_court_position$ отвечает за здоровье и благополучие [court|E], в котором он находится, лечит болезни и зашивает раны в меру своих сил."
+ 
+ eagle_court_position_desc:1 "$eagle_court_position$ Хищник, отвечающий за уход за монархом. Подсчет и уход за всеми длиннокрылыми сокровищами его светлости - тяжелая задача."
+ dali_court_position_desc:1 "Секретарь Да Лиси, глава Да Лиси, высшего органа по рассмотрению дел о наказаниях и тюрьмах в Империи, может рассматривать дела против Чина и высокопоставленных чиновников, а также выносить импичмент по делам о смертной казни по всей стране и отменять решения, вынесенные Министерством наказаний и столичной полицией."
+

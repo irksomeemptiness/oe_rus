@@ -1,0 +1,14 @@
+﻿l_russian:
+  abdicate_decision:0 "Отречься"
+  abdicate_decision_tooltip:0 "Отречься и продолжить править за своего наследника"
+  abdicate_decision_desc:0 "Мое время как [ROOT.Char.GetTitleAsNameNoTooltip] [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip] подошло к концу. Я уверен, что Царство будет в надежных руках с моим наследником".
+  abdicate_decision_effect_text:0 "У тебя будет выбор отречься и продолжить за твоего законный наследник".
+  abdicate_decision_confirm:0 "Пора..."
+
+  abdication.0001.t:0 "Отречение"
+  abdication.0001.desc:0 "С каждым утром мне все труднее вставать и выполнять свои обязанности как [ROOT.Char.GetTitleAsNameNoTooltip] [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]. Возможно, пришло время отдохнуть и передать бремя управления этим [ROOT.Char.GetPrimaryTitle.GetTierAsNameNoTooltip] моему наследнику".
+  abdication.0001.a:0 "Пришло время для другого правителя [ROOT.Char.GetPrimaryTitle.GetBaseNameNoTooltip]".
+  abdication.0001.b:0 "Нет, мое время еще не пришло".
+
+  # abdicate_decision_effect_tt:1 "Вы отречетесь от престола и продолжите как [ROOT.GetCharacter.GetPlayerHeir.GetShortUINameNoTooltip]".
+  abdicate_decision_effect_tt:0 "Вы отречетесь от престола и продолжите как ваш наследник."

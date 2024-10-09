@@ -1,0 +1,113 @@
+﻿l_russian:
+  #召集臣属加入战争
+  action_call_vassal_to_war_interaction_combined_group_label:0 "Призвать вашего [vassal|E] присоединиться к войне"
+  action_call_vassal_to_war_interaction_combined_group_name:0 "Призвать вашего вассала"
+  action_call_vassal_to_war_interaction_combined_group_description:0 "Империя в опасности. Время призвать талантливых людей."
+
+  action_call_vassal_to_war_interaction_combined_label:0 "Призвать [recipient.GetUIName] присоединиться к вашей войне"
+  action_call_vassal_to_war_interaction_click:0 "Нажмите, чтобы увидеть [vassalE]"
+
+  call_vassal_to_war_interaction:0 "Призыв из Императорского двора"
+  action_call_vassal_to_war_interaction:0 "Призвать ваших вассалов присоединиться к войне"
+  action_call_vassal_to_war_interaction_desc:0 "Призвать вассалов присоединиться к войне за меня!"
+
+  CALL_VASSAL_NOTIFICATION:0 "Империя в беде, и пришло время вам показать свою преданность. Я приказываю вам присоединиться к [target.GetName] за меня!"
+
+  # 民间选妃
+  east_find_minjian_concubine:0 "Выбрать наложниц из народа"
+  east_find_minjian_concubine_desc:0 "Отбор красивых женщин из народа в дворе может считаться важным событием для обычных людей, но частый отбор среди народа вызывает панику."
+
+  # Имперское предоставление титулов
+  oe_grant_titles_interaction_legions:0 "Имперское предоставление титулов"
+
+  #召集臣属加入皇朝
+  summon_sb_to_be_vassal_interaction:0 "Уговорить сдаться"
+ summon_sb_to_be_vassal_interaction_desc:0 "[summon_sb_to_be_vassal_interaction|E][recipient.GetShortUINameNoTooltip] сдаться, чтобы стать вашим вассалом"
+ summon_sb_to_be_vassal_interaction_extra_icon:0 "$hook_extra_icon$"
+ summon_sb_to_be_vassal_interaction_accept_msg_title:0 "Преобразование прошло успешно"
+ summon_sb_to_be_vassal_interaction_decline_msg_title:0 "Преобразование не удалось"
+ summon_sb_to_be_vassal_interaction_decline_msg_tooltip:0 "[recipient.GetShortUINameNoTooltip] отказался стать вашим вассалом"
+
+  
+  action_summon_sb_to_be_vassal_interaction_combined_group_label:0 "Преобразовать в вассала"
+  action_summon_sb_to_be_vassal_interaction_combined_label:0 "Преобразовать близлежащих вассалов"
+  action_summon_sb_to_be_vassal_interaction:0 "Преобразовать в вассала"  
+  action_summon_sb_to_be_vassal_interaction_desc:0 "Имея высокопоставленных чиновников и высокие жалования, монарх может призвать могущественных вассалов, которые будут служить его династии."  
+  action_summon_sb_to_be_vassal_interaction_click:0 "Нажмите, чтобы задать им вопрос"
+ 
+ action_summon_sb_to_be_vassal_interaction:1 "[summon_sb_to_be_vassal_interaction|E]"
+ action_summon_sb_to_be_vassal_interaction_combined_group_label:3 "[summon_sb_to_be_vassal_interaction|E]"
+ action_summon_sb_to_be_vassal_interaction_combined_group_name:1 "[summon_sb_to_be_vassal_interaction|E]"
+ action_summon_sb_to_be_vassal_interaction_desc:2 "[summon_sb_to_be_vassal_interaction|E][recipient.GetUIName]"
+ action_summon_sb_to_be_vassal_interaction_combined_group_description:2 "[summon_sb_to_be_vassal_interaction|E]кто-то"
+ action_summon_sb_to_be_vassal_interaction_label:2 "[recipient.GetOpinionOf( actor )|+=][summon_sb_to_be_vassal_interaction|E][recipient.GetUIName]"
+ action_summon_sb_to_be_vassal_interaction_combined_label:0 "[summon_sb_to_be_vassal_interaction|E] к тебе ([recipient.GetOpinionOf(actor)|+=]) положительное отношение [recipient.GetUIName]""
+ action_summon_sb_to_be_vassal_interaction_click:0 "#Я нажимаю, чтобы открыть взаимодействие#!"
+ 
+ revolt_liege_to_be_enemy_vassal_interaction:0 "Перейти на сторону врага"
+ revolt_liege_to_be_enemy_vassal_interaction_desc:0 "Вы предаете [actor.GetLiege.GetUIName], клянясь верности [recipient.GetUIName]"
+ revolt_liege_to_be_enemy_vassal_interaction_extra_icon:0 "$hook_extra_icon$"
+ revolt_liege_to_be_enemy_vassal_interaction_msg_title:0 "Переход принят"
+ revolt_liege_to_be_enemy_vassal_interaction_decline_msg_title:0 "Переход отклонён"
+ revolt_liege_to_be_enemy_vassal_interaction_decline_msg_tooltip:0 "[recipient.GetUIName] отказался от перехода"
+ 
+ action_revolt_liege_to_be_enemy_vassal_interaction:1 "Предать"
+ action_revolt_liege_to_be_enemy_vassal_interaction_combined_group_label:3 "Перейти на сторону [recipient.GetUIName]"
+ action_revolt_liege_to_be_enemy_vassal_interaction_combined_group_name:1 "Предательство"
+ action_revolt_liege_to_be_enemy_vassal_interaction_desc:2 ""
+ action_revolt_liege_to_be_enemy_vassal_interaction_combined_group_description:2 "Вы предали своего сюзерена, клянясь верности своему врагу"
+ action_revolt_liege_to_be_enemy_vassal_interaction_label:2 "Перейти на сторону [recipient.GetUIName]"
+ action_revolt_liege_to_be_enemy_vassal_interaction_combined_label:0 "Перейти на сторону [recipient.GetUIName]"
+ action_revolt_liege_to_be_enemy_vassal_interaction_click:0 "#Я нажимаю, чтобы открыть взаимодействие#!"
+
+
+
+ #Варианты взаимодействия:
+ OPTION_GIVE_GOLD:0 "Дать золото"
+ OPTION_GIVE_PRESTIGE:0 "Дать престиж"
+ OPTION_LVLING:0 "Сменить правительство на Бюрократиб"
+ OPTION_MINGZHOU:0 "Гражданская префектура"
+ OPTION_JUNFU:0 "Военная префектура"
+ OPTION_HUANGSHI:0 "Королевский домен"
+ OPTION_OFFICIAL_SUCCESSION_LAW:0 "Изменить преемственность на бюрократию" 
+   
+ #Модификатор опции:
+ option_give_gold_reason:0 "дать золото: $VALUE|+0=$ "
+ option_give_prestige_reason:0 "дать престиж: $VALUE|+0=$ "
+ # пользовательская всплывающая подсказка:
+ option_mingzhou_contract_tooltip:0 "Установить гражданский контракт"
+ option_junfu_contract_tooltip:0 "Установить военный контракт"
+ option_huangshi_contract_tooltip:0 "Установить контракт на королевский домен"
+ #Opinion:
+ stay_loyalty:0 "остаться верным"
+ surrender_to_enemy:0 "сдаться врагу"
+ want_to_betray:0 "хочу предать"
+ betray_me_in_war:0 "предай меня на войне"
+ actor_secondary_hm_replace_the_bureaucratic_interaction:0 "Наследник"
+ hm_replace_the_bureaucratic_interaction:0 "Изменить бюрократию"
+ hm_replace_the_bureaucratic_interaction_desc:0 "Императорская власть может в любое время назначать временных чиновников для замены действующих губернаторов, управляющих регионами и транспортных чиновников; иногда также можно заменить военных командующих, но будьте осторожны, они обладают значительной военной силой!"
+ actor_secondary_oe_chancellor_replace_the_bureaucratic_interaction:0 "Наследник"
+ oe_chancellor_replace_the_bureaucratic_interaction:0 "Канцлер сменил бюрократа"
+ oe_chancellor_replace_the_bureaucratic_interaction_desc:0 "Канцлер может в любое время назначать временных чиновников для замены действующих губернаторов, управляющих регионами и транспортных чиновников; однако он не может заменить военных командующих и командующих экспедицией!"
+
+ recipient_secondary_hm_exchange_two_bannermen_interaction:0 "Цель"
+ actor_secondary_hm_exchange_two_bannermen_interaction:0 "Источник"
+ hm_exchange_two_bannermen_interaction:0 "Сменить военную юрисдикцию"
+ hm_exchange_two_bannermen_interaction_desc:0 "Императорский указ требует, чтобы подданные действовали с большой решимостью; следуя королевской воле и отправляясь в отдаленные районы, они не должны колебаться, даже если столкнутся с большими трудностями. Чтобы организовать военные действия, вы можете позволить любому военному округу обменяться землями с другим военным округом того же уровня, направив их в указанный вами район обороны; конечно, не каждый командир будет согласен на такое."
+
+  
+  #===================================================================================================================================
+  #Сохранение контента
+  # "Я больше не могу терпеть твое неповиновение двору. Теперь я хочу ликвидировать твою независимую власть."
+  char_interaction.0400.desc:0 "Я больше не могу терпеть твое неповиновение двору. Теперь я хочу ликвидировать твою независимую власть."
+  #  "Невероятно!"
+  char_interaction.0400.a:0 "Невероятно!"
+  #  "Мой феодальный статус непоколебим. Я никогда не сдамся."
+  char_interaction.0401.desc:0 "Мой феодальный статус непоколебим. Я никогда не сдамся."
+  # "[recipient.GetSheHe], как ты смеешь это делать!"
+  char_interaction.0401.a:0 "[recipient.GetSheHe], как ты смеешь это делать!"
+  # "У меня нет другого выбора, кроме как подчиниться вашему решению об ликвидации моей феодальной власти."
+  char_interaction.0399.desc:0 "У меня нет другого выбора, кроме как подчиниться вашему решению об ликвидации моей феодальной власти."
+  #  "Хорошо."
+  char_interaction.0399.a:0 "Хорошо."
+  #===================================================================================================================================

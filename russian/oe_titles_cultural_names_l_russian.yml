@@ -1,0 +1,742 @@
+﻿l_russian:
+cn_khazaria:0 "Хазарская империя"
+ #Джунгария
+ cn_great_uyghur:0 "Великий Уйгур"
+ cn_great_uyghur_adj:0 "Великий Уйгур"
+ cn_qocho:0 "Кочо"
+ cn_qocho_adj:0 "Кочо"
+ cn_xinjiang:0 "Бейтинг"
+ cn_xinjiang_adj:0 "Бейтинг"
+ cn_anxi:0 "Аньси"
+ cn_anxi_adj:0 "Аньси"
+ cn_anbei:0 "Аньбэй"
+ cn_anbei_adj:0 "Аньбэй"
+ cn_gaochan:0 "Гаочан"
+ cn_gaochan_adj:0 "Гаочан"
+ cn_jiaohe:0 "Цзяохэ"
+ cn_jiaohe_adj:0 "Цзяохэ"
+ cn_tulufan:0 "Анле"
+ cn_tulufan_adj:0 "Анле"
+
+ #Западный регион
+ cn_kara_khoja:0 "Кара Ходжа"
+ cn_khoja:0 "Ходжа"
+ cn_hezhou:0 "Хэчжоу"
+ cn_xizhou:0 "Сичжоу"
+ cn_turpan:0 "Турфан"
+ cn_jingsai:0 "Цзинсай"
+ cn_beshbalik:0 "Бешбалык"
+ cn_beshbalik_khitan:0 "Бешбалык"
+ cn_futu:0 "Футу"
+ cn_houting:0 "Хаутинг"
+ cn_xihai:0 "Сихай"
+ cn_zhangbali:0 "Канбалык"
+ cn_changbala:0 "Канбалык"
+ cn_yangjibaliq:0 "Янджибалик"
+ cn_manas:0 "Манас"
+ cn_yehe:0 "Йехе"
+ cn_lamazhao:0 "Ламажао"
+ cn_donglin:0 "Донглин"
+ cn_chalamtum:0 "Чаламтум"
+ cn_xiecheshan:0 "Сэйчэшань"
+ cn_tuergushe:0 "Тегурик"
+ cn_kuoli:0 "Куоли"
+ cn_baersikuo:0 "Баркуль"
+ cn_suolimi:0 "Сульми"
+ cn_yinshan:0 "Иньшань"
+ cn_tonghai:0 "Тонхай"
+ cn_xiyu:0 "Сиюй"
+ cn_haitou:0 "Хайтоу"
+ cn_puchanghai:0 "Пучанхай"
+ cn_bailongdui:0 "Байлонгдуй"
+ cn_kucha:0 "Куча"
+ cn_kucha_khitan:0 "Куча"
+ cn_gumo_wensu:0 "Гумо-Венсу"
+ cn_hunbasheng:0 "Гумбаш" #?
+ cn_aksu:0 "Аксу"
+ cn_bohuan_tibet:0 "Бохуан"
+ cn_baiyin:0 "Пай"
+ cn_uch:0 "Уч"
+ cn_barchuk:0 "Барчук"
+ cn_kashgar:0 "Кашгар"
+ cn_yopurga:0 "Йопурга"
+ cn_shule:0 "Шуле"
+ cn_yarkand_turkic:0 "Яркенд"
+ cn_yarkand_khitan:0 "Яркенд"
+ cn_huangqu:0 "Хуаньцю"
+ cn_woduan:0 "Одон"
+ cn_pishan:0 "Пишань"
+ cn_anjunzhou:0 "Аньцзюньчжоу"
+ cn_zhawa:0 "Чжава"
+ cn_gancheng:0 "Кам Шенг" #Kamdva
+ cn_jingjue:0 "Цзинцзюэ"
+ cn_boxian:0 "Боксиан"
+ cn_yuechang:0 "Юэчан"
+ cn_shezhen_khitan:0 "Черчен"
+ cn_atibasheng:0 "Атбаш"
+ cn_xueshan:0 "Сюэшань"
+ cn_barskhan:0 "Барсхан"
+ cn_balashagun:0 "Балашагун"
+ cn_husiwoerduo:0 "Гуз Орду"
+ cn_tokmak:0 "Токмак"
+ cn_almaliq:0 "Алмалик"
+ cn_ili_mongol:0 "Илик"
+ cn_ili_khitan:0 "Илик"
+ cn_yuhe:0 "Юхэ"
+ cn_xilin:0 "Ксилин"
+ cn_boluo:0 "Бород"
+ cn_yinshanzhou:0 "Иньшань"
+ cn_chuimuonian:0 "Чу"
+ cn_yizelibasi:0 "Кишлпа"
+ cn_dieermi:0 "Термез"
+ cn_teiermi:0 "Термез"
+ cn_talihan:0 "Талекан"
+ cn_kewenzhai:0 "Кевенжай"
+ cn_parwan:0 "Парван"
+ cn_kebuli:0 "Кабул"
+ cn_xiliu:0 "Ксилиу"
+ cn_huwen:0 "Хувен"
+ cn_hexina:0 "Гексина"
+ cn_tiaozhi:0 "Тяочжи"
+ cn_gejining:0 "Газна"
+ cn_bamian:0 "Бамиан"
+ cn_xiefeng:0 "Ксифенг"
+ cn_fanyan:0 "Бамиан"
+ cn_balihei:0 "Балх"
+ cn_lvao:0 "люао"
+ cn_khorezm:0 "Хорезм"
+ cn_huoxun:0 "Хуосунь"
+ cn_yulijian:0 "Гургандж"
+ cn_babu:0 "Бабу"
+ cn_kesan:0 "Касан"
+ cn_kesan_2:0 "Касан"
+ cn_rehai:0 "Рехай"
+ cn_conglin:0 "Конглин"
+ cn_puhualuo:0 "Бухара"
+ cn_puhua:0 "Бухара"
+ cn_chah_khitan:0 "Чах"
+ cn_xiuxun:0 "Сиуксун"
+ cn_zhaofeng:0 "Чжаофэн"
+ cn_zhuba:0 "Джуба"
+ cn_khojand_mongol:0 "Ходжент"
+ cn_niaofei:0 "Няофэй"
+ cn_yueban:0 "Юэбань"
+ cn_daqin:0 "Дацин"
+ cn_kunxu:0 "Кунху"
+ cn_qisha:0 "Циша"
+ cn_kangju:0 "Кангджу"
+ cn_dahan:0 "Дахань"
+ cn_otrar:0 "Отрар"
+ cn_shapurgan:0 "Шапурган"
+ cn_bohe_wakhan:0 "Бохэ"
+ cn_ningyuan_ferghana:0 "Нинъюань"
+ cn_taligan:0 "Талиган"
+ cn_nanmi:0 "Нанми"
+ cn_xiaoshi:0 "Сяоши"
+ cn_tianma:0 "Тяньма"
+ cn_guiren_bolv:0 "Гирен"
+ cn_vaisra:0 "Вайсра"
+ cn_wangting:0 "Ваньтин"
+ cn_gaofu:0 "Гаофу"
+ cn_taikhan_nuur:0 "Тайхан Нуур"
+ cn_qianquan:0 "Цяньцюань"
+ cn_gexi:0 "Гэси"
+ cn_jinfu:0 "Цзиньфу"
+ cn_yanlu:0 "Янлу"
+ cn_amol:0 "Амол"
+ cn_diezhang:0 "Дьежанг"
+ cn_boluo_ca:0 "Болуо"
+ cn_qiwei:0 "Сивэй"
+ cn_wuxi_ca:0 "Уси"
+ cn_tante:0 "Танте"
+ cn_yinmi:0 "Иньми"
+ cn_luoluo_ca:0 "Ляоляо"
+ cn_wudan_ca:0 "Вудань"
+ cn_yuquan:0 "Юцюань"
+ cn_anwu:0 "Аньву"
+ cn_hena:0 "Хена"
+ cn_dalan:0 "Далан"
+ cn_kalifu:0 "Калифу"
+ cn_xueman:0 "Сюэман"
+ cn_chisan:0 "Чисан" #Александрия
+ cn_soltaniyeh:0 "Солтание"
+ 
+ #Центральная Азия
+ cn_dongcao:0 "Донгкао"
+ cn_dongan:0 "Дунъань"
+
+ #Тибет и Ся
+ cn_xixia:0 "Лян"
+ cn_xixia_adj:0 "Лян"
+ cn_jisang:0 "Цзисан"
+ cn_dingzhou:0 "Динчжоу"
+ cn_daxia:0 "Даксия"
+ cn_taozhou:0 "Таочжоу"
+ cn_meixiang:0 "Мэйсян"
+ cn_hezuo:0 "Чуньчжоу"
+ cn_diebu:0 "Дьеданг"
+ cn_diezhou:0 "Дичжоу"
+ cn_zhouqu:0 "Даньчжоу"
+ cn_linbo:0 "Линбо"
+ cn_xuanwei:0 "Сюаньвэй"
+ cn_weirong:0 "Вейронг"
+ cn_gemen:0 "Гемен"
+ cn_drotsang:0 "Хаоцзи"
+ cn_qiongyu:0 "Гонг-Юл" #?
+ cn_sarig:0 "Сариг"
+ 
+#Монголия
+ cn_great_liao:0 "Великое Ляо"
+ cn_great_liao_adj:0 "Великое Ляо"
+ cn_qay:0 "Кай"
+ cn_qay_adj:0 "Цай"
+ cn_jubu:0 "Джубу"
+ cn_jubu_adj:0 "Джубу"
+ cn_n_jubu:0 "Северный Джубу"
+ cn_n_jubu_adj:0 "Северный Джубу"
+ cn_karakhanid:0 "Караханид"
+ cn_karakhanid_adj:0 "Караханид"
+ cn_siber:0 "Сибирь"
+ cn_siber_adj:0 "Себирцы"
+ cn_tuyuhun:0 "Тойгон"
+ cn_tuyuhun_adj:0 "Тойгон"
+ cn_keshidemi:0 "Кеседрми"
+ cn_dishenshan:0 "Дишеншань"
+ cn_wushan:0 "Вушан"
+ cn_khangai:0 "Хангай"
+ cn_uliastai:0 "Улиастай"
+ #cn_wuluta:0 "Улутта"
+ #cn_tiejiangu:0 "Джингу Тэ"
+ cn_karakorum:0 "Каракорум"
+ cn_korum:0 "Корум"
+ cn_omsk:0 "Омск"
+ cn_pavlodar_rus:0 "Павлодар"
+ cn_tyumen:0 "Тюмень"
+ cn_weizhou_kt:0 "Вэйчжоу"
+ cn_zhenzhou_kt:0 "Чжэньчжоу"
+ cn_qatun_kt:0 "Катунь"
+ cn_fangzhou_kt:0 "Фанчжоу"
+ cn_zhaozhou_kt:0 "Чжаочжоу"
+
+##
+cn_tang:0 "Тан"
+cn_song:0 "Сун"
+cn_zhou:0 "Чжоу"
+cn_qing:0 "Великая Цин"
+cn_bohai:0 "Бохай"
+cn_balhae:0 "Балхэ"
+cn_dongdan:0 "Дундан"
+cn_jin:0 "Великая Цзинь"
+cn_motgit:0 "Мотгит"
+cn_urge:0 "Ургэ"
+cn_wuguo:0 "Вугуо"
+cn_donghai:0 "Донхай"
+cn_yilou:0 "Илоу"
+cn_goguryeo:0 "Когурё"
+cn_mohe:0 "Мохэ"
+cn_buyeo:0 "Буё"
+cn_yemo:0 "Йемо"
+cn_yuan:0 "Великий Юань"
+cn_liao:0 "Великое Ляо"
+cn_jinn:0 "Джинн"
+cn_yan:0 "Янь"
+cn_yin:0 "Инь"
+cn_dalli:0 "Далли"
+cn_xia:0 "Ся"
+cn_jiuli:0 "Цзюли"
+cn_pu:0 "Пу"
+cn_yue:0 "Юэ"
+cn_dian:0 "Дянь"
+cn_andong:0 "Андун"
+cn_monan:0 "Монан"
+cn_yinshan:0 "Иньшань"
+cn_chanyu:0 "Чаньюй"
+
+cn_tartar:0 "Тартар"
+cn_mongol:0 "Монгол"
+cn_oirat:0 "Ойрат"
+cn_shatuo:0 "Шатуо"
+cn_jurchen:0 "Чжурчжэнь"
+
+cn_daning:0 "Данинг"
+cn_nanzhao:0 "Наньчжао"
+cn_dali:0 "Дали"
+cn_cuan:0 "Куан"
+cn_changhe:0 "Чанхэ"
+
+cn_xie:0 "Се"
+
+cn_dongjing:0 "Дунцзин"
+cn_dongxia:0 "Восточное Ся"
+cn_hanhai:0 "Ханьхай"
+
+cn_jinghai:0 "Цзиньхай"
+
+#Юго-Восток
+cn_chiang_mai: "Чиангмай"
+cn_chiang_rai: "Чианграй"
+cn_singkhon: "Сингкхон"
+cn_phattalung:0 "Пхатталунг"
+cn_trang:0 "Транг"
+cn_satun:0 "Сатун"
+cn_ayutthaya:0 "Аюттхая"
+cn_chantaburi:0 "Чантабури"
+cn_phetchaburi:0 "Пхетчабури"
+cn_tavoy:0 "Тавой"
+cn_thawai:0 "Тхавай"
+cn_tra:0 "Тра"
+cn_tanintharyi:0 "Танинтари"
+cn_tanaosri:0 "Танаосри"
+cn_tampornling:0 "Тампорнлинг"
+cn_tanmaling:0 "Танмалинг"
+cn_madamalingam:0 "Мадамалингем"
+cn_tha_thong:0 "Тха Тхонг"
+cn_takua_pa:0 "Такуа Па"
+cn_takun:0 "Такун"
+cn_kakola:0 "Какола"
+cn_thalang:0 "Таланг"
+cn_silan:0 "Силан" #?
+cn_lanna:0 "Ланна"
+cn_duwop:0 "Дувоп"
+cn_bik:0 "Бик"
+cn_gandalarattha:0 "Гандалараттха"
+cn_xibo:0 "Хибо"
+cn_thibaw:0 "Тибау"
+cn_hansavadi:0 "Хансавади"
+cn_rathawadi:0 "Ратхавади"
+cn_inle:0 "Инле"
+cn_kambojarattha:0 "Камбоджараттха"
+cn_saturambha:0 "Сатурамбха"
+cn_mobye:0 "Мобье"
+cn_waithali:0 "Вайтхали"
+cn_ye_city:0 "Город Йе"
+cn_yaozhou:0 "Яочжоу"
+cn_zongzhou:0 "Цзунчжоу"
+cn_yaocheng:0 "Яочэн"
+cn_wangzhou:0 "Ваньчжоу"
+cn_huazhou_yn:0 "Хуачжоу"
+cn_kunzhou:0 "Куньчжоу"
+cn_yining:0 "Инин"
+cn_lizhou:0 "Личжоу"
+cn_nanningzhou:0 "Наньнинчжоу"
+cn_panshui_yn:0 "Паньшуй"
+cn_longdi:0 "Лонгди"
+cn_zhushi:0 "Чжуши"
+cn_xiezhou:0 "Сьечжоу"
+cn_mazhou:0 "Мачжоу"
+cn_tangwang:0 "Тангванг"
+cn_xizhou:0 "Сичжоу"
+cn_yuexi:0 "Юэси"
+cn_sanbu_yn:0 "Саньбу"
+cn_chengzhou:0 "Чэнчжоу"
+cn_kunming:0 "Куньмин"
+cn_changming:0 "Чанмин"
+cn_nanting:0 "Нантин"
+cn_dongzao:0 "Дунцао"
+cn_quzhou_yn:0 "Цюйчжоу"
+cn_tengchong:0 "Тенгчонг"
+cn_moutong:0 "Мутун"
+cn_shanju:0 "Шаньчжу"
+cn_chengjie_bai:0 "Чэнцзе"
+cn_hetou:0 "Хэтоу"
+cn_weichu:0 "Вейчу"
+cn_aning:0 "Эннинг"
+cn_xiushan:0 "Сиушань"
+cn_abo:0 "Або"
+cn_zuining:0 "Цзуйнин"
+cn_jiaohe_yn:0 "Цзяохэ"
+cn_qilan_yn:0 "Цилань"
+cn_dongchuan_yn:0 "Дунчуань"
+cn_sayam:0 "Саям"
+cn_sayam_lavo:0 "Саям"
+cn_nakhon_ratchasima:0 "Накхон Ратчасима"
+cn_nakhon_sawan:0 "Накхон Саван"
+cn_sri_thep:0 "Шри Тхеп"
+cn_shenli:0 "Шенли"
+cn_yangbi:0 "Янгби"
+cn_yeyu:0 "Йею"
+cn_langqiong:0 "Ланьцюн"
+cn_tengbei:0 "Тенгбей"
+cn_qiu1zhou:0 "Цючжоу"
+cn_gouzhou:0 "Гоучжоу"
+cn_yuxian:0 "Юйсянь"
+
+#Вьетнамская Чампа
+cn_shuzhou_laos:0 "Шучжоу"
+cn_tangzhou_vn:0 "Таньчжоу"
+cn_rinan:0 "Ринан"
+cn_shunhua_vn:0 "Тхуан Хоа"
+cn_dangzhou_vn:0 "Даньчжоу"
+cn_biying:0 "Бийин"
+cn_zhuwu:0 "Чжуву"
+cn_xijuan:0 "Сицзюань"
+cn_lurong:0 "Луронг"
+cn_dianchong:0 "Дяньчжун"
+cn_buzhengzhou:0 "Бо Чань Чау"
+cn_xinping_vn:0 "Тан Бинь"
+cn_shunzhou_vn:0 "Тхуан Чау"
+cn_huazhou_vn:0 "Хоа Чау"
+cn_shenghua_vn:0 "Тханг Хоа"
+cn_shengzhou_vn:0 "Тханг Чау"
+cn_guangnan_vn:0 "Куанг Нам"
+cn_huairen_vn:0 "Хоай Нхань"
+cn_suiyuan_vn:0 "Туй Вьен"
+cn_taikang_vn:0 "Тхай Кханг"
+cn_pingshun_vn:0 "Бинь Тхуан"
+cn_fanqie:0 "Пхиен Тьет"
+cn_meichui:0 "Мой Суй"
+cn_longchuan_vn:0 "Лонг Сюен"
+cn_longhu_vn:0 "Лонг Хо"
+cn_fanzhen_vn:0 "Фьен Тран"
+cn_fanan_vn:0 "Фьен Ан"
+cn_saigon:0 "Гиа Динь"
+cn_hexian_vn:0 "Ха Тьен"
+cn_suila_vn:0 "Тюй Лап"
+cn_heduo_vn:0 "Хоа Да"
+cn_nanrong_vn:0 "Нам Винь"
+cn_meilin_vn:0 "Ми Лам"
+cn_zhenxi_vn:0 "Тран Тэй"
+cn_shuishe_vn:0 "Тхуи Xa"
+cn_huoshe_vn:0 "Хоа Xa"
+cn_geba_vn:0 "Ка Бат"
+cn_jinpai_vn:0 "Кам Бай"
+cn_haixi_vn:0 "Хай Тай"
+cn_haidong_vn:0 "Хай Дун"
+cn_xining_vn:0 "Тэй Нинь"
+cn_tongni:0 "Донг Ни"
+cn_miannan_vn:0 "Миен Нам"
+cn_xishan_vn:0 "Тэй Сан" #暂且如此 (пока так)
+cn_huan_champa:0 "Хуан"
+cn_linyi_vn:0 "Линьи"
+cn_duonong:0 "Дуононг"
+cn_anle_vn:0 "Анле"
+cn_haiyin_vn:0 "Хайинь"
+cn_xiangpu_vn:0 "Сянпу"
+cn_jiaojiang_vn:0 "Цзяоцзян"
+cn_nanji_vn:0 "Наньцзи"
+cn_xunyu_vn:0 "Там Ву"
+cn_jining_vn:0 "Тап Нинь"
+cn_xundun_vn:0 "Там Дон"
+cn_shanjing_vn:0 "Сон Тинь"
+cn_guangbian_vn:0 "Куангбьен"
+cn_kaibian_vn:0 "Кхай Биен"
+cn_yongchang_vn:0 "Винь Чанг"
+
+cn_minhlinh_vn:0 "Минь Линь" #顺州
+cn_lambinh_vn:0 "Лам Бинь" #化州
+cn_dienban_vn:0 "Дьен Бан" #思州
+cn_nghiachau_vn:0 "Нгия Чау"
+cn_hamthuan_vn:0 "Хам Тхуан"
+cn_gialai_vn:0 "Гиа Лай" #or 南蟠
+cn_truongtruan_vn:0 "Чыонг Труан"
+cn_tranbien_vn:0 "Тран Бьен"
+cn_tanchau_vn:0 "Тан Чау" #建祥
+cn_chudoc_vn:0 "Чу Док"
+cn_angiang_vn:0 "Ан Гианг"
+cn_kiengiang_vn:0 "Киен Гианг"
+cn_namninh_vn:0 "Нам Нинь"
+cn_banam_vn:0 "Ба Нам" #南盛
+cn_phunam_vn:0 "Фу Нам" #or 南泰 寻敦 绥腊
+cn_kyto_vn:0 "Ки То"
+cn_haibinh_vn:0 "Хай Бинь"
+cn_haidong_vn:0 "Хай Донг"
+cn_haininh_vn:0 "Хай Нинь"
+cn_trungha_vn:0 "Трун Ха"
+cn_quelam_vn:0 "Куэ Лам"
+cn_xuongtinh_vn:0 "Сюонг Тинь"
+
+cn_prey_nokor:0 "Виранахура"
+
+#Чосон
+cn_zhenfan_js:0 "Чжэньфань"
+cn_xiongjin_js:0 "Сюнцзинь"
+cn_jilin_js:0 "Цзилинь"
+cn_lintun_js:0 "Линьтун"
+cn_xuantu_js:0 "Сюаньту" #玄菟本来的位置 (настоящее местоположение Сюаньту)
+
+#Китайский Наньян
+cn_sishui_ny:0 "Сишуй"
+cn_jiugang_ny:0 "Цзюган"
+cn_xingzhou_ny:0 "Синьчжоу"
+cn_xinshan_ny:0 "Синьшань"
+cn_kundian_ny:0 "Кундиан"
+
+cn_kunlv:0 "Кунлв"
+cn_xihelu:0 "Сихэ"
+
+cn_huaizhou:0 "Хуайчжоу"
+cn_jingzhou:0 "Цзинчжоу"
+
+cn_khmer:0 "Великий Кхмер"
+cn_luchuan:0 "Лючуань"
+cn_menggong:0 "Мэн Гун"
+
+cn_altibaliq:0 "Алтибалик"
+cn_lhiyul:0 "Лхиюл"
+
+d_khamag:0 "Хамаг"
+d_khamag_n:0 "Монголы"
+
+cn_fengsheng:0 "Фэншэн"
+
+cn_altibaliq:0 "Роппонги" (Шесть городов)
+cn_lhiyul:0 "Лию" (Ли Юй)
+
+#Корея
+#c_hanju
+cn_kor_gyeonggi:0 "Кёнги"
+#b_weili
+cn_buy_wirye:0 "Вирие"
+cn_gor_bukhanseong:0 "Букхансон"
+cn_sil_hanyang:0 "Ханьян"
+cn_kor_yangju:0 "Янгжу"
+#b_namhanseong
+cn_buy_namhanseong:0 "Намхансон"
+cn_kor_gwangju:0 "Кванджу"
+cn_sil_hansan:0 "Хансан"
+#b_ganghwa
+cn_gor_hyeolgu:0 "Хёльгу"
+cn_sil_haegu:0 "Хэгу"
+#b_suwon
+cn_gor_maehol:0 "Майхол"
+cn_sil_suseong:0 "Сусон"
+cn_kor_suju:0 "Сучжу"
+#c_hwanghae
+#b_kaeseong
+cn_gor_dongbihol:0 "Донгбихол"
+cn_kor_gaeseong:0 "Гаесонг"
+cn_sil_seongak:0 "Сонгак"
+#b_hwangju
+cn_gor_donghol:0 "Донгохол"
+cn_kor_hwangju:0 "Хванчжу"
+cn_sil_chwiseong:0 "Чвайсон"
+#b_sariwon
+cn_gor_hanhol:0 "Ханхол"
+cn_kor_bongju:0 "Бонджу"
+cn_sil_seoam:0 "Сеолам"
+#b_haeju
+cn_gor_nemihol:0 "Немихол"
+cn_kor_haeju:0 "Хэджу"
+cn_sil_pokji:0 "Покджи"
+#c_chunwon
+cn_gor_milseng:0 "Милсенг"
+#b_chunju
+#b_wonju
+cn_gor_pyeongwon:0 "Пхёнвон"
+#b_chechon
+cn_gor_naeto:0 "Наето"
+cn_gor_jeju:0 "Чеджу"
+cn_sil_naetu:0 "Наэту"
+#d_baekje
+cn_kor_jeolla:0 "Джолла"
+#c_xiongshanzhou
+cn_buy_soburi:0 "Собури"
+cn_buy_gommaru:0 "Гоммару"
+cn_sil_ungcheonju:0 "Унчхонжу"
+#b_gongju_buyeo_sibi
+cn_kor_gongju:0 "Гонджу"
+#b_chongju
+cn_buy_sangdang:0 "Сангданг"
+cn_sil_sawon:0 "Савон"
+#b_sosan
+cn_buy_imjonseong:0 "Имджонсон"
+cn_kor_hongju:0 "Хонджу"
+cn_sil_imseong:0 "Имсон"
+#c_wanshanzhou
+cn_buy_bisabeol:0 "Бисабеол"
+#b_chonju
+#b_iksan
+cn_sil_geumma:0 "Гымма"
+#b_namwon
+cn_buy_goryung:0 "Горюн"
+#c_faluozhou
+#b_naju
+cn_buy_ballaju:0 "Балладжу"
+cn_buy_mujinju:0 "Мужинжу"
+#b_yosn
+cn_buy_gampyeong:0 "Гампёнг"
+cn_sil_seungpyeong:0 "Сынгпёнг"
+#d_danluo
+#c_danluo
+cn_tammura:0 "Таммура"
+cn_kor_jeju:0 "Чеджу"
+#b_danluo
+#d_sila
+#c_shaliangzhou
+cn_kor_gyeongsang:0 "Гёнсан"
+#b_gyeogju
+cn_kor_gyeongju:0 "Кёнджу"
+cn_sil_seorabeol:0 "Сеораболь"
+#b_yangsan
+cn_sil_sapra:0 "Сапра"
+cn_kor_ryangju:0 "Рянчжу"
+#b_SeokguramGrotto
+#c_dalseong
+cn_gay_dalgubeol:0 "Дальгуболь"
+cn_sil_illi:0 "Илли"
+cn_kor_gyeongsan:0 "Гёнсан"
+#b_dalseong
+cn_sil_bonpi:0 "Бонпи"
+cn_kor_daegu:0 "Тэгу"
+#b_HaeinsaTemple
+cn_sil_chuhwa:0 "Чухва"
+cn_kor_milseong:0 "Мильсон"
+#c_shangfazhou
+cn_kor_sangju:0 "Санджу"
+cn_sil_seonju:0 "Сонджу"
+#b_sanju
+#b_anton
+cn_sil_gutaya:0 "Гутая"
+cn_kor_andong:0 "Андонг"
+#b_yongju
+cn_gor_nai:0 "Най"
+cn_sil_naryeong:0 "Нарён"
+#d_gaya
+#c_gayaa
+cn_sil_gimhae:0 "Гимхэ"
+#b_kimhae
+cn_gaya_geumgwan:0 "Кымгван"
+#b_changwon
+cn_kor_uian:0 "Уйань"
+cn_sil_gulja:0 "Гульджа"
+#c_juliezhou
+cn_buy_geota:0 "Геота"
+cn_kor_jinju:0 "Цзиньчжу"
+#b_jinju
+cn_buy_georyeolseong:0 "Джорьёльсон"
+#b_sachon
+cn_gaya_gosapo:0 "Госапо"
+cn_sil_goja:0 "Годжа"
+cn_kor_goju:0 "Годжу"
+#b_haman
+cn_kor_hamyang:0 "Хамьян"
+cn_sil_sokham:0 "Сокхам"
+#b_goryeong
+cn_gaya_daegaya:0 "Дагая"
+cn_kor_goryeong:0 "Корён"
+#d_dongya
+#c_shouruozhou
+cn_gor_gakryeonseong:0 "Гакрёнсон"
+cn_kor_gyoju:0 "Гёджу"
+cn_sil_usu:0 "Усу"
+#b_chunchon
+cn_kor_chunju:0 "Чунджу"
+#b_cheorwon
+cn_gor_moeuldongbi:0 "Моэльдонгби"
+cn_kor_dongju:0 "Донгжу"
+cn_sil_cheolsong:0 "Чхольсон"
+#c_anbyun
+cn_gor_biryeolhol:0 "Бирёльхоль"
+cn_kor_deungju:0 "Дынджу"
+cn_sil_biryeolju:0 "Бирёльчжу"
+#b_wonsan
+#b_congshiting
+cn_gor_dalhol:0 "Далхол"
+cn_kor_goseong:0 "Госонг"
+#b_sogcho
+cn_gor_garahol:0 "Гарахол"
+cn_kor_ganseong:0 "Гансонг"
+cn_sil_suseong2:0 "Сусонг"
+#c_hexizhou
+#b_angnung
+cn_gor_haseoryang:0 "Хасорян"
+cn_kor_myeongju:0 "Мёнджу"
+cn_sil_haseoju:0 "Хасеожу"
+#b_tonghae
+cn_gor_osi:0 "Оси"
+cn_sil_samcheok:0 "Самчжок"
+#b_ulchin
+cn_gor_ojinya:0 "Оджинья"
+cn_kor_ryeju:0 "Рёджю"
+cn_sil_yurin:0 "Юрин"
+#d_liaodong
+cn_kor_ryodong:0 "Йодун"
+#b_Baiyacheng
+cn_gor_begamseong:0 "Бегамсонг"
+#b_Chengzhou_Haicheng
+cn_gor_ryodongseong:0 "Рёдонтонгсонг"
+cn_gor_geonanseong:0 "Геонансонг"
+#b_Liangshui
+cn_gor_mami:0 "Мами"
+#c_Sheenzhou
+#b_SheenzhouLejiao
+cn_gor_hyeondo:0 "Хёндо"
+cn_kor_simyang:0 "Симьян"
+#b_Yincheng_Yanjinzhou
+cn_gor_sinseong:0 "Синсон"
+#b_Liaobin_Huaiyuan
+cn_gor_muryeora:0 "Мурьёра"
+#c_guidezhou
+#b_Xincheng_Guide
+cn_gor_gwidan:0 "Гвидан"
+#b_Gaimouzhou
+cn_gor_gaemo:0 "Гемо"
+#b_Mudizhou
+cn_gor_mokji:0 "Мокджи"
+#c_anshi
+cn_gor_ansi:0 "Анси"
+#b_Anshicheng
+cn_gor_ansiseong:0 "Ансисон"
+#b_Цзянаньчжоу
+cn_gor_geonan:0 "Геон'ан"
+#b_Hesuguan_Hesqan
+cn_gor_yeonseong:0 "Ёнсон"
+#c_jilizhou
+cn_gor_jeokri:0 "Чжокри"
+#b_Jilizhou
+#b_Beishacheng
+cn_gor_bisa:0 "Биса"
+#b_Dulizhen
+cn_gor_hyeolseong:0 "Хёльсонг"
+#c_pozhuo
+cn_gor_ogol:0 "Огол"
+#b_Daxing_Pozhuocheng
+cn_gor_daeheung:0 "Дэхын"
+#b_Shicheng_Shirenzhu
+cn_gor_seokseong:0 "Соксон"
+#b_Wugucheng
+#b_Muzhouhuinong
+cn_gor_hoenong:0 "Хоенонг"
+#c_hwando
+cn_gor_gungnae:0 "Гунгнэ"
+#b_Wandushancheng
+#b_Heshenggucheng
+cn_gor_heulseunggol:0 "Хёльсунгол"
+#c_yalu
+cn_gor_amrok:0 "Амрок"
+#b_Shenlu_Yalufu
+cn_gor_sinrok:0 "Синрок"
+#b_Anfeng_Changbaishan
+cn_gor_anpung:0 "Анпунг"
+#b_Чжэнчжоу_Ялу
+cn_gor_biryu:0 "Бирю"
+#d_buyeo
+#c_fuyu
+#b_Fuyufu_Tongzhou
+cn_gor_buyeoseong:0 "Буёсонг"
+#b_XinzhouWuchang
+#b_Nansuzhou_Xianzhou
+cn_gor_namsu:0 "Намсу"
+#b_Yidianbu
+#b_Huibacheng
+cn_gor_daedusan:0 "Дэдусан"
+#b_Changling
+cn_gor_dabeorak:0 "Дабеорак"
+#b_Hezhou_Hailong
+cn_gor_haju:0 "Хаджу"
+#c_sumozhou
+cn_gor_bukbuyeo:0 "Букбуё"
+cn_gor_bukbuyeoseong:0 "Букбуёсонг"
+#c_longyuan
+cn_gor_chaekseong:0 "Чхэксонг"
+#c_anju
+cn_gor_paengwon:0 "Пхэнвон"
+cn_kor_nyeongju:0 "Нёнджу"
+cn_kor_anbuk:0 "Анбук"
+#b_tenju
+cn_gor_jeongli:0 "Чонгли"
+cn_kor_gwakju:0 "Гвакджу"
+#b_uiju
+cn_gor_ryongman:0 "Рёнман"
+#b_sakachu
+cn_gor_nyeongsae:0 "Ньонгсаэ"

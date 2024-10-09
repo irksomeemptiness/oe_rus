@@ -1,0 +1,105 @@
+﻿l_russian:
+ # Game start additional unique artifacts
+ artifact_seal_of_celestia_name:1 "Печать Поднебесной империи"
+ artifact_seal_of_celestia_description:0 "Легенда гласит, что оригинал, сделанный Первым Императором из нефрита с одним углом, отделанным чистым золотом, был священным оружием, символизирующим небесную судьбу Китая."
+ skull_wangmang_name:0 "Голова Ван Мана"
+ skull_wangmang_description:0 "В этой шкатулке хранится голова Ван Мана. Возможно, его мистические способности передадутся и тому, кто будет держать ее в руках".
+ artifact_wall_sword_liubang_name:1 "Меч Хань Гаоцзу, обезглавливающий белую змею".
+ artifact_wall_sword_liubang_description:0 "Легендарный меч, использованный императором Лю Баном из Хань Гао, чтобы обезглавить Белого Змея, когда тот восстал. Он имеет исключительное значение для тех, кто верит в конец пяти добродетелей и реинкарнацию небесной судьбы."
+ robe_kuihua:2 "Меч Подсолнуха".
+ robe_kuihua_desc:0 "Написано таинственным шрифтом на халате, по слухам, вынесенном евнухом из Запретного дворца Великой династии Тан, чтобы воспользоваться хаосом, надписи на двух сторонах крайне непоследовательны, записывают культивирование внутренних боевых искусств и фехтование соответственно."
+
+ # Reliquary
+ artifact_pedestal_reliquary_confucianism_name:1 "[SCOPE.Custom("ConfucianismRelicName")|U] "
+ artifact_pedestal_reliquary_confucianism_description:1 "Партия прекрасных сокровенных писем, содержащих Мудреца: [SCOPE.Custom("ConfucianismRelic ")]."
+ artifact_pedestal_reliquary_taoism_name:1 "[SCOPE.Custom("TaoismRelicName")|U]"
+ artifact_pedestal_reliquary_taoism_description:1 "Прекрасно сделанная сторона шкатулки с сокровищами, содержащая предмет Бессмертных:[SCOPE.Custom("ДаосизмРеликвия")]. "
+ artifact_pedestal_reliquary_confucianism_sandals:1 "Деревянная обувь, которую, по слухам, носил Конфуций"
+ artifact_pedestal_reliquary_confucianism_sandals_name:1 "Сапоги Конфуция"
+ artifact_pedestal_reliquary_confucianism_cloak:1 "Весенняя одежда, которую носил Конфуций во время своих весенних экскурсий"
+ artifact_pedestal_reliquary_confucianism_cloak_name:1 "Весенняя одежда Конфуция"
+ artifact_pedestal_reliquary_confucianism_spear:1 "Фрагмент трости, которой, по преданию, пользовался Конфуций"
+ artifact_pedestal_reliquary_confucianism_spear_name:1 "Посох Конфуция"
+ artifact_pedestal_reliquary_confucianism_thorn:1 "Кисточка короны, которую, по преданию, носил Цзы Лу перед смертью в бою"
+ artifact_pedestal_reliquary_confucianism_thorn_name:1 "Кисточка короны Цзы Лу"
+ artifact_pedestal_reliquary_confucianism_bowl:1 "Ковш, которым, по преданию, пользовался Янь Хуэй, когда жил в переулке".
+ artifact_pedestal_reliquary_confucianism_bowl_name:1 "Ковш Янь Хуэя".
+ artifact_pedestal_reliquary_confucianism_nail:1 "Нож, которым Цзэн Цзы, по преданию, убил свинью".
+ artifact_pedestal_reliquary_confucianism_nail_name:1 "Нож Цзэн Цзы, которым он убил свинью".
+ artifact_pedestal_reliquary_confucianism_keys:1 "Нефритовый кулон, который Цзы Гун носил во время путешествия в Великие державы"
+ artifact_pedestal_reliquary_confucianism_keys_name:1 "Нефритовый кулон Цзыгуна"
+
+
+#Книги
+book_zhuzi_title:0 "[SCOPE.Custom(„ZhuziBooks“)|U]"
+book_zhuzi_desc:1 "Драгоценный том оригинальной древней книги, записавшей мудрость первопроходцев: [SCOPE.Custom(„ZhuziBooks“)|U]".
+zhuzi_book_name_zhouyi:1 "Книга Чжоуи"
+zhuzi_book_name_lianshan:1 "Ляньшань"
+zhuzi_book_name_guizang:1 "Гуйцзан" (Возвращение в Тибет)
+zhuzi_book_name_shangshu:1 "Книга Шаньшу"
+zhuzi_book_name_yuejing:1 "Книга музыки"
+zhuzi_book_name_guanzi:1 "Гуаньцзы (Труба)"
+zhuzi_book_name_shangjunshu:1 "Книга Шан Цзюньшу"
+zhuzi_book_name_taixuanjing:1 "Книга Тайсюаньцзин"
+zhuzi_book_name_qiminyaoshu:1 "Сущностное искусство Ци Мин"
+zhuzi_book_name_shanghanzabinglun:1 "Трактат о тифозных заболеваниях"
+zhuzi_book_name_shiji:1 "Записи великого историка"
+zhuzi_book_name_shijing:1 "Поэзия Мао"
+zhuzi_book_name_mengdexinshu:1 "Менгдексиншу"
+zhuzi_book_name_sunzibingfa:1 "Искусство войны Сунь-цзы"
+zhuzi_book_name_hujiashibapai:1 "Восемнадцать ударов Ху Цзя"
+zhuzi_book_name_caotangji:1 "Сборник Цао Тана"
+zhuzi_book_name_soushenji:1 "Запись о поисках богов"
+zhuzi_book_name_shishuoxinyu:1 "Шишуосиньюй" (Новая история мира)
+zhuzi_book_name_wenxindiaolong:1 "Вэньсинь Дяо Лонг" ("Литературное сердце Дяо Лонг")
+zhuzi_book_name_chunqiu:1 "Анналы весны и осени"
+zhuzi_book_name_baopuzi:1 "Баопуцзы" (Холодная война)
+zhuzi_book_name_zhuangzi:1 "Чуань-цзы"
+zhuzi_book_name_qingnangshu:1 "Циннаньшу" ("Книга зеленого мешка")
+zhuzi_book_name_jizhongshu:1 "Книга Капицуки"
+zhuzi_book_name_ganshixingjing:1 "Ганьшисинцзин" (Книга Гань Ши Синь Цзин)
+zhuzi_book_name_yizhoushu:1 "Ичжоушу" (Книга об Ичжоу)
+zhuzi_book_name_taipingyaoshu:1 "Основы тай пин" (Книга о тай пин)
+zhuzi_book_name_lengyanjing:1 "Сутра Лунъян"
+zhuzi_book_name_datangxiyuzhi:1 "Записи о западных областях Датанга"
+zhuzi_book_name_foguoji:1 "Записи о царстве Будды"
+zhuzi_book_name_shuijingzhu:1 "Книга вод" (Записки водного классика)
+zhuzi_book_name_lienvzhuan:1 "Биография сеньоров Льежа"
+zhuzi_book_name_hanyuefuji:1 "Хань Лефу цзи" (Собрание Хань Лефу)
+zhuzi_book_name_guanglingsan:1 "Гуанлин сань"
+
+
+
+
+#Мечи
+artifact_wall_sword_tianzi_name:1 "[SCOPE.Custom(„Меч Тяньцзы“)]"
+artifact_wall_sword_tianzi:1 "Двенадцать знаменитых мечей, которые, как говорят, появились в древние времена Китая. Этот - [SCOPE.Custom('TianziSword')]".
+artifact_wall_sword_tianzi_taie:0 "Тай А".
+artifact_wall_sword_tianzi_juque:0 "Джуку"
+artifact_wall_sword_tianzi_chunjun:0 "Чистый Цзюнь"
+artifact_wall_sword_tianzi_zhanlu:0 "Джанлу"
+artifact_wall_sword_tianzi_yuchang:0 "Рыбьи кишки"
+artifact_wall_sword_tianzi_longquan:0 "Лунъюань"
+artifact_wall_sword_tianzi_ganjiang:0 "предприимчивый"
+artifact_wall_sword_tianzi_moye:0 "Мо С "
+artifact_wall_sword_tianzi_chengying:0 "Чэн Ин"
+artifact_wall_sword_tianzi_hanguang:0 "Хангуан"
+artifact_wall_sword_tianzi_xiaolian:0 "Ночная тренировка"
+artifact_wall_sword_tianzi_gongbu:0 "Гонгбу"
+
+artifact_wall_sword_tianzi_yitian:0 "Юйтиань"
+artifact_wall_sword_tianzi_xuantie:0 "Железный меч Сюань"
+artifact_wall_sword_tianzi_guding:0 "Древний меч из самородков"
+artifact_wall_sword_tianzi_qinggang:0 "Зеленые вещества"
+artifact_wall_sword_tianzi_wuliu:0 "У императора было шесть мечей, один - Белая Радуга, второй - Фиолетовая молния, третий - Пэйси, четвертый - Метеор, пятый - Циндянь, шестой - Бэйли".
+
+
+Axe:0 "Топор"
+Spear:0 "Копьё"
+Hammer:0 "Молот"
+Mace:0 "Пика"
+Heads:0 "Остриё"
+Shafts:0 "Посох"
+
+ propaganda_chronicle_name:0 "[ROOT.Char.GetDynastyHouseNameNoTooltip]Хроника весны и осени"
+ propaganda_chronicle_desc:0 "Эта тяжёлая книга крайне подробно излагает славу семьи[ROOT.Char.GetDynastyHouseNameNoTooltip]и её более или менее странные территориальные притязания."

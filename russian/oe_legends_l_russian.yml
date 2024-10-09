@@ -1,0 +1,181 @@
+﻿l_russian:
+ legend_origin: "Легенда о происхождении"
+ legend_origin_name: "$legend_legitimizing_name$"
+ legend_origin_desc: "$game_concept_legend_type_desc$"
+
+common_ancestry_name: "[Localize(ancestor_flag)|U] происхождение"
+common_ancestry_desc: "[Localize(ancestor_flag)] было общим предком для нас. В крови всех наших людей течет та же кровь, что текла через [Localize(ancestor_flag)]."
+
+yellow_emperor: "Желтый Император"
+yandi: "Янди"
+chiyou: "Чию"
+pangu: "Пангу"
+xia_emperor: "Император Ся"
+lady_sea: "Леди Море"
+south_emperor: "Южный Император"
+east_emperor: "Восточный Император"
+west_emperor: "Западный Император"
+southwest_emperor: "Юго-западный Император"
+dankun: "Данкун"
+amaterasu: "Аматэрасу"
+lac_long: "Лак Лонг Куан"
+wuzhu: "Ужжу"
+ashina: "Ашина"
+
+laozi: "Лао Цзы"
+tianshi: "Тяньши Чжан"
+ashina: "Ашина"
+baiqi: "Бай Ци"
+xiangyu: "Сян Юй"
+hanxin: "Хань Синь"
+liguang: "Ли Гуан"
+lijing: "Ли Цзин"
+mayuan: "Ма Юань"
+weiqing: "Вэй Цин"
+huoqubing: "Хуо Цюйбин"
+banchao: "Бан Чао"
+zhouchu: "Чжоу Чу"
+huanwen: "Хуан Вэнь"
+libai: "Ли Бай"
+TrungVuong: "Трунг Вуонг"
+
+guanyu_legend: "Легенда о Гуань Юе"
+zhangfei_legend: "Легенда о Чжан Фэе"
+zhugeliang_legend: "Легенда о Чжугэ Ляне"
+Gaesomun_legend: "Еон Гэсомун"
+xuanzang_legend: "Путешествие на Запад"
+yangye_legend: "Генералы Ян"
+lvbu_legend: "Легенда о Лю Бэ"
+zhaoyun_legend: "Легенда о Чжао Цзилун"
+machao_legend: "Легенда о Ма Чао"
+
+
+legend_benji: "[ancestor.GetHouse.GetMotto]"
+legend_han: "Эпоха Хань"
+legend_tang: "Эпоха Тан"
+legend_caowei: "Эпоха Вэй"
+legend_shuhan: "Восстановление Хань"
+legend_dongwu: "Эпоха У"
+legend_taiqiuzhang: "Мастер Великой Горы"
+
+legend_Qutlugh: "Кровь Кутлуга"
+
+
+ #庙号谥号
+ Loc_china_GetLegendName: "[Character.Custom('GetUIGuohao')] [Character.Custom('GetUImiaohao')] [Character.GetNickname] [Character.Custom('GetUIchinaTitle')] [Character.GetDynasty.GetBaseNameNoTooltip] [Character.GetFirstNameNoTooltip]"
+ OE_Legend_AncestorFullName: "[ancestor.Custom('GetUIGuohao')] [ancestor.Custom('GetUImiaohao')] [ancestor.GetNickname] [ancestor.Custom('GetUIchinaTitle')] [ancestor.GetDynasty.GetBaseNameNoTooltip] [ancestor.GetFirstNameNoTooltip]"
+ OE_Legend_AncestorGloryName: "[ancestor.Custom('GetUIGuohao')] [ancestor.Custom('GetUImiaohao')] [ancestor.GetNickname] [ancestor.Custom('GetUIchinaTitle')]"
+ OE_Legend_AncestorBaseName: "[ancestor.GetDynasty.GetBaseNameNoTooltip] [ancestor.GetFirstName]"
+ OE_Legend_AncestorMiaohao: "[ancestor.Custom('GetUIGuohao')] [ancestor.Custom('GetUImiaohao')]"
+ OE_Legend_AncestorShihao: "[ancestor.Custom('GetUIGuohao')] [ancestor.GetNickname] [ancestor.Custom('GetUIchinaTitle')]"
+
+ legend_chronicle_ancestral_dynasty_desc: "Род [ancestor.GetHouse.GetName] создал Блестящую Династию."
+
+ legend_chapter_opening_ancestral_dynasty: "$legend_chronicle_ancestral_glory$"
+ legend_chapter_motivation_ancestral_dynasty: "$legend_chapter_motivation_ancestral_glory$"
+ legend_chapter_famous_deed_ancestral_dynasty: "$legend_chapter_famous_deed_ancestral_glory$"
+ legend_chapter_extra_deed_ancestral_dynasty: "$legend_chapter_extra_deed_ancestral_glory$"
+ legend_chapter_conclusion_ancestral_dynasty: "$legend_chapter_conclusion_ancestral_glory$"
+
+ legend_loyal_warrior: "Верные Дела $OE_Legend_AncestorGloryName$"
+ legend_loyal_warrior_desc: "[ancestor.GetShortUINamePossessive|U] благочестивые поступки во имя [religion.GetName] безусловно достойны почитания."
+ legend_loyal_warrior_flag: "Верные Дела [Localize(ancestor_flag)|U]"
+ legend_loyal_warrior_flag_desc: "[Localize(ancestor_flag)|U] благочестивые поступки во имя [religion.GetName] безусловно достойны почитания."
+
+ legend_chapter_opening_loyal_warrior: "Как последователь Легендарного [ancestor.Custom('OE_GetShortUINameNoTooltip')], легенда о [ROOT.Legend.GetProtagonist.GetTitledFirstNameNoTooltip] начинается с благоприятного рождения. С самого раннего возраста [ROOT.Legend.GetProtagonist.GetSheHe] чувствовал призыв [ROOT.Legend.GetProtagonist.GetFaith.HighGodName]."
+ legend_chapter_opening_loyal_warrior_flag: "Как последователь Легендарного Героя [Localize(ancestor_flag)|U], легенда о [ROOT.Legend.GetProtagonist.GetTitledFirstNameNoTooltip] начинается с благоприятного рождения. С самого раннего возраста [ROOT.Legend.GetProtagonist.GetSheHe] чувствовал призыв [ROOT.Legend.GetProtagonist.GetFaith.HighGodName]."
+
+legend_chapter_motivation_loyal_warrior: "[ROOT.Legend.GetProtagonist.GetFirstNamePossessiveNoTooltip] миссия от [ROOT.Legend.GetProtagonist.GetFaith.PantheonTerm] была ясной: [ROOT.Legend.GetProtagonist.GetSheHe] должен был совершать чудеса! Все [ROOT.Legend.GetProperty('religion').Religion.GetAdherentNamePluralNoTooltip] хранят [ROOT.Legend.Custom('GetAncestorNameNoTooltip')] в своих сердцах, но никто не знал, какие чудеса [ROOT.Legend.GetProtagonist.GetFirstNameNoTooltip] еще должен был совершить!"
+legend_chapter_motivation_loyal_warrior_flag: "[ROOT.Legend.GetProtagonist.GetFirstNamePossessiveNoTooltip] миссия от [ROOT.Legend.GetProtagonist.GetFaith.PantheonTerm] была ясной: [ROOT.Legend.GetProtagonist.GetSheHe] должен был совершать чудеса! Все [ROOT.Legend.GetProperty('religion').Religion.GetAdherentNamePluralNoTooltip] хранят [Localize(ancestor_flag)|U] в своих сердцах, но никто не знал, какие чудеса [ROOT.Legend.GetProtagonist.GetFirstNameNoTooltip] еще должен был совершить!"
+
+legend_chapter_extra_deed_loyal_warrior: "$legend_chapter_extra_deed_saintly_deed$"
+legend_chapter_conclusion_loyal_warrior: "$legend_chapter_conclusion_saintly_deed$"
+
+ legend_creature_descent_name: "[Localize(beast)|U] Происхождение"
+ legend_creature_descent_desc: "Один из моих предков забеременел от могущественного [Localize(beast)|U], дав святой начало нашей династии."
+ legend_dragon_descent: "Истинный Дракон"
+ legend_dragon_descent_desc: "Когда великая мать отдыхала на берегу большой реки, ей приснилась встреча с богом. Когда ее отец, Тайгун, пришел к ней, он увидел на ней дракона. Она была беременна и родила Гаоцзу."
+ creature: "[ROOT.Char.Custom('CreatureName')]"
+
+ legend_auspicious_name: "Благоприятный [Localize(god)]"
+ legend_auspicious_desc: "Иллюзия [Localize(god)] призывала в [ROOT.Legend.GetProtagonist.Custom('OE_GetUINameNotMeNoTooltip')|U] во сне, возлагая божественную миссию на [ROOT.Legend.GetProtagonist.GetHerHim]."
+ legend_chronicle_auspicious_motivation: "$legend_chronicle_divine_intervention_motivation$"
+ legend_chapter_famous_deed_auspicious: "$legend_chapter_famous_deed_divine_intervention$"
+ legend_chapter_extra_deed_auspicious: "$legend_chapter_extra_deed_divine_intervention$"
+ legend_chapter_conclusion_auspicious: "$legend_chapter_conclusion_divine_intervention$"
+
+ #Животные
+
+
+legend_chronicle_opening_auspicious: "Мать '[ROOT.Legend.GetProtagonist.Custom('OE_GetUINameNotMeNoTooltip')|U]' увидела во сне, что [ROOT.Legend.GetProtagonist.Custom('AuspiciousPregnantDream')], и забеременела, родив [ROOT.Legend.GetProtagonist.GetHerHim]. В тот день, [ROOT.Legend.GetProtagonist.Custom('AuspiciousBirth')]."
+
+Loc_AuspiciousBirth1: "Красный свет сиял в комнате"
+Loc_AuspiciousBirth2: "Звук был подобен треску угля в печи, искры разлетались в стороны"
+Loc_AuspiciousBirth3: "Белый пар наполнил двор"
+Loc_AuspiciousBirth4: "Вода в колодце бурно выливалась"
+Loc_AuspiciousBirth5: "В переулках слышался необычный аромат"
+Loc_AuspiciousBirth6: "Пять звезд собрались в созвездии Куй"
+Loc_AuspiciousBirth7: "Желтая бабочка летела на солнце"
+Loc_AuspiciousBirth8: "На большом пальце левой ноги была надпись 'небо'"
+Loc_AuspiciousBirth9: "Мыши выпустили разноцветные облака"
+
+Loc_AuspiciousPregnantDream1: "Божество держало солнце, чтобы передать его"
+Loc_AuspiciousPregnantDream2: "Солнце упало во двор, и я поймал его рукой"
+Loc_AuspiciousPregnantDream3: "Ангел встретился со мной"
+
+
+revolt_maitreya_name: "Живой Майтрейя"
+revolt_mingism_name: "Царь Славы"
+revolt_taiping_name: "Воля Неба"
+revolt_holder_name: "Смерть [title.GetHolder.GetDynastyNameNoTooltip|U] [title.GetNameNoTierNoTooltip|U], трон для дома [founder.GetDynastyNameNoTooltip|U]"
+revolt_vassal_name: "Падение [founder.GetTopLiege.GetDynastyNameNoTooltip|U], корона [founder.GetDynastyNameNoTooltip|U]"
+revolt_title_name: "[founder.GetPrimaryTitle.GetNameNoTierNoTooltip|U] для восстания, [founder.GetDynastyNameNoTooltip|U] для коронации"
+
+revolt_title_desc: "$new_title_desc$"
+revolt_mingism_desc: "$new_title_desc$"
+
+
+
+ god_descend_name: "Живой [ancestor.GetFaith.WarGodName]"
+ god_descend_desc: "Люди верили, что [ROOT.Legend.GetProtagonist.GetNamePossessiveNoTooltip] был живым [ancestor.GetFaith.WarGodName] в мире."
+legend_chapter_opening_god_descend: "Люди верили, что [ROOT.Legend.GetProtagonist.GetNamePossessiveNoTooltip] был живым [предком.GetFaith.WarGodName] в мире. С самого рождения на семью [ROOT.Legend.GetProtagonist.GetDynastyNameNoTooltip] была возложена божественная миссия - принести процветание и веру [ROOT.Legend.GetProtagonist.GetFaith.GetNameNoTooltip] во все уголки [ROOT.Legend.GetProperty('title' ).Title.GetBaseNameNoTooltip]."
+
+general_origin: "Общий предок"
+khitan_ancestor: "Кровь Чишо"
+jurchen_ancestor: "Кровь Хефу".
+mongol_ancestor: "Кровь Бортехина"
+turkic_ancestor: "Кровь Изништу"
+uyghur_ancestor: "Кровь Пугу"
+tibetan_ancestor: "Кровь ГутПургиал"
+ava_ancestor: "Кровь Кьеу Лун"
+ryukyu_ancestor: "Кровь Амамикю"
+jiaozhi_ancestor: "Кровь Хунг Вуонг"
+goryeo_ancestor: "Кровь Хванунга"
+китайский_канцлер: "Кровь Фу Си"
+yamato_ancestor: "Кровь Аматерасу"
+bai_ancestor: "Кровь Дуань Чичэна"
+min_ancestor: "Кровь Вучжу"
+qiangic_ancestor: "Кровь Уй Айчен"
+
+
+
+legend_events.0001.desc.mid.ancestral_dynasty: "$legend_events.0001.desc.mid.ancestral_saint$"
+
+ legend_events.0001.desc.mid.loyalty_descent: "$legend_events.0001.desc.mid.ancestral_saint$"
+
+legend_events.0001.desc.mid.loyalty_descent_not_in_history: "$legend_events.0001.desc.mid.ancestral_saint$"
+
+legend_events.0001.desc.mid.fairy_descent: ""[ROOT.Char.HighGodName|U] улыбается сегодня твоему дому, мой [ROOT.Char.GetTitleAsNameNoTooltip|U]. Я искал информацию о твоих благоприятных предках и нашел ее: Один из твоих предков был могущественным [Localize( creature )]！"
+
+ legend_events.0001.desc.mid.auspicious: ""[ROOT.Char.GetFaith.HighGodName|U] улыбается нам сегодня, мой [ROOT.Char.GetTitleAsNameNoTooltip], Благоприятный [Localize( god )] появляется в [ROOT.Char.GetLocation.GetName], как и [ROOT.Char.GetFaith.HighGodNameSheHe] в день твоего рождения. Воистину, ты родился под благоприятными звездами - знак великих деяний, которые тебе предстояло совершить в жизни".
+
+ commision_legend_join_house_decision_disappearing_tt: "[legend|E], отмечающая ваше королевское происхождение, должна присутствовать в вашем [realm|E]".
+
+ penglai: "Пенглай
+ taohuayuan: "Таохуауян"
+ beiming: "Вейминг"
+ qingqiu: "Цинцю"
+
+
+GetWritingMaterial_bamboo_slip: "Вы получили бамбуковый свиток"
+GetWritingMaterial_bamboo_slip_plural: "Для завершения исследования вам нужно собрать несколько бамбуковых свитков"

@@ -1,0 +1,18 @@
+﻿l_russian:
+ action_oe_info:0 "Oriental Empires Mod"
+ action_oe_info_label:0 "Oriental Empires Mod"
+ action_oe_info_desc:0 "Создавайте империи дальше на Восток, чем когда-либо прежде!"
+ action_oe_info_click:0 ""
+
+ oe_info.001.tt:0 "Oriental Empires Mod"
+ oe_info.001.desc:0 "Это мод для моделирования всей истории от Атлантики до Тихого океана, поэтому вместо Китайской империи или Азии, мы хотели бы добавить больше истории, которая сделала бы Старый мир ЕДИНСТВЕННЫМ, и готовы сотрудничать с моддерами из каждой страны.\n\nНекоммерческое использование: вы не можете монетизировать какую-либо часть контента.\nОбразовательное использование: не стесняйтесь открывать файлы контента, чтобы обучаться, конечно.\nGithub Проект\nhttps://github.com/Orient-Empires-Project/Orient_Empires_and_sub_MOD\n\nПожертвование：https://afdian.net/a/NomadClub\nГлавная：https://space.bilibili.com/279205719\nDiscord：https://discord.gg/xVHZBngnd4"
+ see_change_log:0 "Ясно.
+ see_donate_page:0 "Потрясающе!"
+
+zz_info_decision:0 "Мод Oriental Empires"
+zz_info_decision_desc:0 "Это мод для моделирования всей истории от Атлантики до Тихого океана, поэтому вместо Китайской империи или Азии мы хотели бы добавить больше истории, которая сделала бы Старый мир ЕДИНСТВЕННЫМ, и готовы сотрудничать с моддерами из каждой страны.\n\nНекоммерческий: вы не можете монетизировать какую-либо часть content.\nОбразовательное использование: Не стесняйтесь открывать файлы контента, чтобы, конечно, обучаться.\nПроект Github\nhttps://github.com/Orient-Empires-Project/Orient_Empires_and_sub_MOD\n\nПожертвование：https://afdian.net/a/NomadClub\nГлавная：https://space.bilibili.com/279205719\nDiscord：https://discord.gg/xVHZBngnd4"
+zz_info_decision_tooltip:0 "$action_oe_info_desc$"
+zz_info_decision_confirm:0 "Потрясающе!"
+
+dlc_OE: "Мод Oriental Empires"
+dlc_OE_desc: "Постройте свои империи дальше на Восток, чем когда-либо прежде! Это мод, призванный смоделировать всю историю от Атлантики до Тихого океана, ощутить борьбу императоров, бюрократов, военачальников и героев восстания, а также их династии, верования, искусства и легенды.

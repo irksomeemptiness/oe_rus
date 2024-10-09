@@ -1,0 +1,148 @@
+﻿l_russian:
+ name_list_bodpa:0 "Бодпакские"
+ name_list_burmese:0 "Бирманские"
+ name_list_buryat:0 "Бурятские"
+ name_list_han:0 "Ханьские"
+ name_list_jurchen:0 "Чжурчжэньские"
+ name_list_karluk:0 "Карлукские"
+ name_list_kerait:0 "Кераитские"
+ name_list_khazar:0 "Хазарские"
+ name_list_khitan:0 "Хитанские"
+ name_list_mogyer:0 "Могирские"
+ name_list_mon:0 "Монские"
+ name_list_mongol:0 "Монгольские"
+ name_list_naiman:0 "Найманские"
+ name_list_oirat:0 "Ойратские"
+ name_list_ongud:0 "Онгудские"
+ name_list_qiang:0 "Цянские"
+ name_list_saka:0 "Сакакские"
+ name_list_shatuo:0 "Шатуоские"
+ name_list_sogdian:0 "Согдийские"
+ name_list_sumpa:0 "Сумпайские"
+ name_list_tangut:0 "Тангутские"
+ name_list_tocharian:0 "Тохарские"
+ name_list_tsangpa:0 "Цангпакские"
+ name_list_turkish:0 "Туркские
+ name_list_tuyuhun:0 "Туюхунские"
+ name_list_uriankhai:0 "Урианхайские"
+ name_list_uyghur:0 "Угурские"
+ name_list_yughur:0 "Уйгурские"
+ name_list_zhangzhung:0 "Чжанчжунские"
+
+
+
+ name_list_bodpa:0 "Бодпакские"
+ name_list_tangut:0 "Тангутские"
+ name_list_zhangzhung:0 "Чжанчжунские"
+ name_list_qiang:0 "Цянские"
+
+ #Turkic
+ name_list_turkish:1 "Тюргеши":0 "Турецкий:1 „Тюргеши“"
+ name_list_avar:0 "Аварские"
+ name_list_karluk:0 "Карлукские"
+ name_list_kirghiz:0 "Киргизские"
+ name_list_uyghur:0 "Угурские"
+ name_list_uriankhai:0 "Урианхайские"
+ name_list_yughur:0 "Уйгурские"
+ name_list_shatuo:0 "Шатуоские"
+ name_list_ongud:0 "Онгудские"
+
+ #Mongolic
+ name_list_mongol:0 "Монгольские"
+ name_list_buryat:0 "Бурятские"
+ name_list_oirat:0 "Ойратские"
+ name_list_naiman:0 "Найманские"
+ name_list_kerait:0 "Кераитские"
+
+ name_list_khitan:0 "Хитанские"
+ name_list_tuyuhun:0 "Туюхунские"
+ name_list_qay:0 "Каитские"
+ name_list_siber:0 "Сибирские"
+
+
+
+ #Chinese
+ name_list_han:0 "Ханьские"
+ name_list_hebei:0 "Хэбэйские"
+ name_list_hexi:0 "Хексиские"
+
+ # Burmese
+ name_list_burmese:0 "Бирманские"
+ name_list_kachin:0 "Качинские"
+ name_list_assamese:0 "Ассамские"
+ name_list_shan:0 "Шанские"
+
+ # Miao-Man
+ name_list_bai:0 "Байские"
+ name_list_yi:0 "Уийские"
+ name_list_wuman:0 "Лолойские"
+
+# Mon-Khmer
+ name_list_mon:0 "Монские"
+ name_list_khmer:0 "Кхмерские"
+ name_list_ava:0 "Аваские"
+
+
+#Yues Dong-Tai
+ name_list_tai:0 "Тайские"
+ name_list_pu:0 "Пуские"
+ name_list_jiaozhi:0 "Вьетнамские"
+ name_list_laos:0 "Лаосские"
+ name_list_min:0 "Минские"
+ name_list_liliao:0 "Лиляоские"
+
+
+# Sea
+ name_list_cham:0 "Чамские"
+ name_list_ryukyu:0 "Окинаваские"
+ name_list_aceh:0 "Ачехские"
+ name_list_malay:0 "Малайский"
+
+
+
+# Austriod
+ name_list_austronesian:0 "Австронезийские"
+ name_list_ifugao:0 "Ифугаосские"
+ name_list_java:0 "Явайские"
+ name_list_lampung:0 "Лампунгские"
+ name_list_brunei:0 "Брунейские"
+
+#Tunguse
+ name_list_jurchen:0 "Юрченские"
+ name_list_heishui:0 "Хэйшуйские"
+ name_list_balhae:0 "Балхэйские"
+
+#Ainu
+ name_list_ainu:0 "Айнуйские"
+ name_list_yilou:0 "Илоуйские"
+ name_list_udege:0 "Удэгейские"
+ 
+#Yakut
+ name_list_nivkh:0 "Нивхские"
+ name_list_uilta:0 "Уйльтайские"
+ name_list_yakut:0 "Якутские"
+ name_list_evenk:0 "Эвенкские"
+
+#Yamato
+ name_list_yamato:0 "Японские"
+ name_list_oshu:0 "Ошуйские"
+ name_list_kyushu:0 "Кюсюйские"
+ name_list_hayato:0 "Хаятойские"
+
+#Goryeo
+ name_list_yemo:0 "Йемойские"
+ name_list_senhan:0 "Сенханские"
+ name_list_buyeo:0 "Байюэские"
+ name_list_goguryeo:0 "Корейские"
+ name_list_gayaa:0 "Гаяаские"
+ name_list_silla:0 "Силлаские"
+
+
+#wt
+ name_list_xianbei:0 "Сяньбэйские"
+ name_list_xiongnu:0 "Сюннуские"
+ name_list_jie:0 "Цзейские"
+ name_list_di:0 "Дийские"
+ name_list_wuhuan:0 "Ухуаньские"
+ name_list_rouran:0 "Руранские"
+ name_list_tiele:0 "Тилейские"

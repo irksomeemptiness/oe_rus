@@ -1,0 +1,45 @@
+﻿l_russian:
+ game_concept_celestial_government:0 "Поднебесная" #律令制
+ celestial_government:0 "Поднебесная"
+ celestial_government_adjective:0 "Поднебесная"
+ celestial_government_realm:0 "Поднебесное царство"
+ celestial_government_desc:0 "Поднебесная система - это правящая система, которая проводит указы сверху вниз. Распространена в континентальных империях в классический период. Ее правящая сила резко уменьшается с расширением территориальных масштабов."
+ celestial_government_vassals_label:1 "Небесные [вассалы|E]с большим количеством уровней, [obligations|E]с большей стоимостью."
+ celestial_government_obligations:0 "[GetGovernment(„celestial_government“ ).GetName][obligations|E]"
+ celestial_obligation_low:3 "Низкий уровень$celestial_government_obligations$"
+ celestial_obligation_low_short:0 "Низкий"
+ celestial_obligation_normal:3 "Нормальный $celestial_government_obligations$"
+ celestial_obligation_normal_short:0 "Нормальный"
+ celestial_obligation_high:3 "Высокий $celestial_government_obligations$"
+ celestial_obligation_high_short:0 "Высокий"
+
+
+ game_concept_legion_government:0 "Военный губернатор"
+ legion_government:0 "Легион"
+ legion_government_adjective:0 "Легион"
+ legion_government_realm:0 "Легион"
+ legion_government_desc:0 "Легион имеет земли и войска на границах империи. Обычно он отвечает за оборону империи и расширение ее территории, играя ключевую роль в хаосе империи.。"
+ legion_government_vassals_label:1 "Легион[obligations|E]основывается на[opinion|E]"
+ legion_government_obligations:0 "От[opinion|E]"
+ legion_government_tax_contribution_postfix:0 " （Большинство[FixedPointToProgressbarValue(EmptyScope.ScriptValue(„legion_government_tax_max_possible“))|1V]）"
+ legion_government_levies_contribution_postfix:0 " （Большинство[FixedPointToProgressbarValue(EmptyScope.ScriptValue(„legion_government_levies_max_possible“))|1V]）"
+ legion_government_unclamped_contribution_label:0 "Основано на [opinion|E] для меня."
+ legion_government_min_contribution_label:0 "Наименьший[crown_authority|E]"
+
+
+ game_concept_bureau_government:0 "Бюрократия"
+ bureau_government:0 "Бюрократия"
+ bureau_government_adjective:0 "Бюрократия"
+ bureau_government_realm:0 "Бюрократия"
+ bureau_government_desc:1 "Бюрократы, назначенные империей, занимаются местным управлением в течение срока своих полномочий. Каждый бюрократ может управлять только своей территорией и выбирать, продвигать и переводить сотрудников в соответствии с правилами."
+ bureau_government_obligations:0 "Разные пожертвования"
+ bureau_government_vassals_label:1 "Гражданский магистрат[vassals|E]с более низким уровнем, налоги, корвеи и разные пожертвования[obligations|E]с более высоким требованием."
+
+
+ game_concept_ulus_government:0 "Орда"
+ government_is_ulus:0 "Правительство - это Орда"
+ ulus_government:0 "Орда"
+ ulus_government_adjective:0 "Орда"
+ ulus_government_realm:0 "Орда"
+ ulus_government_desc:1 "Орда или Улус, конфедерация, окружающая несколько домов или даже одного властного лидера, обычно появляется в степных или кочевых ордах, но очень гибкая и адаптируемая для управления огромными землями, где живут разные культуры и обычаи"
+ ulus_government_vassals_label:1 "Ордынские [vassals|E] - это военачальники или агенты, которых посылают для сбора [obligations|E]"

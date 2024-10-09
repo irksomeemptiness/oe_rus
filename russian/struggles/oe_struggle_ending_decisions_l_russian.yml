@@ -1,0 +1,94 @@
+﻿l_russian:
+ ##### Hostility #####
+ struggle_tartaria_ending_hostility_decision:1 "[ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip]Объединение мира"
+ struggle_tartaria_ending_hostility_decision_desc:1 "Все встало на свои места, и настало время для сильного лидера, который вытащит мир из трясины войны и разделения. Знамена [ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip] будут развеваться на границе, а [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] [ROOT.Char.Custom(' GetQueenKing')|l] удержит ее!"
+ struggle_tartaria_ending_hostility_decision_tooltip:0 "Конец Хоха [struggle|E]"
+ struggle_tartaria_ending_hostility_decision_confirm:1 "Конец борьбы с хоханом"
+ # Triggers
+ struggle_tartaria_ending_hostility_decision_kingdom_tt:0 "Вы[hold|E]кроме того,[completely_control|E][GetTitleByKey(„e_celestia“).GetNameNoTier]и[GetTitleByKey(„e_mongolia“).GetNameNoTier]"
+ struggle_tartaria_ending_hostility_decision_united_chinese_throne_tt:0 "вы уже создали Такуйское ханство[primary_title|E]"
+ struggle_tartaria_ending_hostility_decision_county_tt:0 "Вы[capital|E][kingdom|E]（[THIS.Char.GetCapitalLocation. GetCounty.GetTitle.GetDeJureLiege.GetDeJureLiege.GetNameNoTier]）из всех[de_jure|E][county|E]Все должны быть[THIS. Char.GetCulture.GetName]культура и[THIS.Char.GetFaith.GetAdjective]приговор（[SCOPE. ScriptValue('fp2_struggle_hostility_county_counter_value')|0]/[SCOPE.ScriptValue('fp2_struggle_hostility_county_total_value')|0]）"
+ struggle_tartaria_ending_hostility_decision_county_light_tt:0 "Вы[capital|E][kingdom|E]75%Университет[de_jure|E][counties|E]（[THIS. Char.GetCapitalLocation.GetCounty.GetTitle.GetDeJureLiege.GetDeJureLiege.GetNameNoTier]）должен быть[THIS. Char.GetCulture.GetName]культура и [THIS.Char.GetFaith.GetAdjective]приговор（[SCOPE. ScriptValue('fp2_struggle_hostility_county_counter_value')|0]/[SCOPE.ScriptValue('fp2_struggle_hostility_county_total_light_value')|0]）"
+ struggle_tartaria_ending_hostility_decision_region_tt:2 "Никаких других[independent|E]из[struggle_involved|E][ruler|E]контроль[GetGeographicalRegion(„world_struggle_tartaria“). GetName][SCOPE.ScriptValue('fp2_struggle_hostility_region_percent_value')|0]%Над землей"
+ # Effects
+ fp2_struggle_hostility_opinion_tt:1 "тот же[faith|E]и/возможно[culture|E][characters|E]из[opinion|E]：#positive_value +[SCOPE.ScriptValue('fp2_struggle_hostility_opinion_value')]#!"
+ fp2_struggle_hostility_opinion_negative_tt:0 "остальное[struggle_involved|E][faiths|E]и/возможно[cultures|E][characters|E]из[opinion|E]：#negative_value [SCOPE.ScriptValue('fp2_struggle_hostility_opinion_negative_value')]#!"
+ oe_struggle_hostility_conversion_tt:1 "существовать[GetGeographicalRegion('world_struggle_tartaria').GetName][region|E]осуществлять$task_conversion$и/возможно$task_promote_culture$[councillor_tasks|E]из темпа：#P +50%#!"
+ oe_struggle_hostility_conversion_holy_tt:0 "существовать[GetGeographicalRegion('world_struggle_tartaria').GetName][region|E]осуществлять$task_conversion$[councillor_task|E]из темпа：#P +50%#!"
+ oe_struggle_hostility_conversion_culture_tt:0 "существовать[GetGeographicalRegion('world_struggle_tartaria').GetName][region|E]осуществлять$task_promote_culture$[councillor_task|E]из темпа：#P +50%#!"
+ fp2_struggle_hostility_list_tt:1 "Выберите один из следующих вариантов一возможно полный："
+ fp2_struggle_hostility_holy_cb_tt:0 "Для остального[struggle_involved|E][faiths|E]из$HOLY_WAR_DUCHY_NAME$[casus_bellis|E]：#positive_value -50%#!"
+ fp2_struggle_hostility_holy_cb_joint_tt:0 "Для остального[struggle_involved|E][faiths|E]из$HOLY_WAR_DUCHY_NAME$[casus_bellis|E]：#positive_value -50%#!\n$culture_parameter_cb_lower_piety_level_requirement$"
+ fp2_struggle_hostility_culture_cb_tt:0 "Для остального[struggle_involved|E][cultures|E]из$CONQUEST_DUCHY_CB_NAME$[casus_bellis|E]：#positive_value -50%#!"
+ fp2_struggle_hostility_culture_tt:0 "Все[struggle_involved|E][cultures|E]потерять друг друга#negative_value [SCOPE.ScriptValue('fp2_struggle_hostility_culture_acceptance_value')]%#![cultural_acceptance|E]"
+ fp2_struggle_hostility_culture_large_tt:0 "Все[struggle_involved|E][cultures|E]потерять друг друга#negative_value [SCOPE.ScriptValue('fp2_struggle_hostility_culture_acceptance_large_value')]%#![cultural_acceptance|E]"
+ oe_struggle_hostility_acceptance_tt:0 "Вражда в Тартарии"
+ # Modifiers
+ fp2_struggle_hostility_house_faith_modifier:1 "приговор враждебности"
+ fp2_struggle_hostility_house_faith_modifier_desc:0 "Семья завоевала большую часть территории во имя нации."
+ fp2_struggle_hostility_house_culture_modifier:1 "культурная враждебность"
+ fp2_struggle_hostility_house_culture_modifier_desc:0 "Семья завоевала большую часть территории во имя нации."
+ fp2_struggle_hostility_house_combined_modifier:1 "правило враждебности"
+ fp2_struggle_hostility_house_combined_modifier_desc:0 "Семья завоевала большую часть территории во имя нации."
+ fp2_struggle_hostility_faith_conversion_task_desc:0 "$fp2_struggle_hostility_house_faith_modifier$"
+ fp2_struggle_hostility_culture_conversion_task_desc:0 "$fp2_struggle_hostility_house_culture_modifier$"
+ ##### Compromise #####
+ struggle_tartaria_ending_compromise_decision:1 "Разграничивайте и управляйте"
+ struggle_tartaria_ending_compromise_decision_desc:0 "Хаос в мире только ослабит нас. Все люди. Пришло время признать, что страна никогда не воссоединится.[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]。"
+ struggle_tartaria_ending_compromise_decision_tooltip:0 "$struggle_tartaria_ending_hostility_decision_tooltip$"
+ struggle_tartaria_ending_compromise_decision_confirm:0 "$struggle_tartaria_ending_hostility_decision_confirm$"
+ # Triggers
+ struggle_tartaria_ending_compromise_decision_kingdom_tt:0 "Вы[hold|E]кроме того,[completely_control|E][GetTitleByKey('e_celestia').GetNameNoTier]из назначенных一[de_jure|E][kingdom|E]（[SCOPE.ScriptValue('oe_struggle_ending_kingdom_counter_value')|0]/[SCOPE.ScriptValue('fp2_struggle_conciliation_kingdom_total_value')|0]）"
+ struggle_tartaria_ending_compromise_decision_region_tt:0 "Вы удерживаете контролирь над 70% или больше из[GetGeographicalRegion('world_struggle_tartaria').GetName][region|E]（текущий：[SCOPE.ScriptValue('struggle_tartaria_ending_compromise_decision_region_owned_percent_value')|0]%）"
+ struggle_tartaria_ending_compromise_decision_other_region_tt:0 "остальное[independent|E]из[struggle_involved|E][ruler|E]Никто не контролирует[SCOPE.ScriptValue('fp2_struggle_compromise_involved_percent_value')|0]% или более из[GetGeographicalRegion('world_struggle_tartaria').GetName][region|E]"
+ struggle_tartaria_ending_compromise_decision_opinion_tt:0 "остальное все[independent|E]из[struggle_involved|E][rulers|E]для вас из[opinion|E]по крайней мере для[SCOPE.ScriptValue('struggle_tartaria_ending_compromise_decision_opinion_value')|0]，возможно тот, кто[strong_hook|E]из цели（[SCOPE.ScriptValue('struggle_tartaria_ending_compromise_decision_opinion_counter_value')|0]/[SCOPE.ScriptValue('struggle_tartaria_ending_ending_decision_foreign_realm_total_value')|0]）"
+ struggle_tartaria_ending_compromise_decision_independent_tt:0 "остальное[independent|E]из[struggle_involved|E][rulers|E]никто[king|E]возможно[emperor|E][rank|E]（текущий：[SCOPE.ScriptValue('struggle_tartaria_ending_compromise_decision_independent_counter_value')|0]）"
+ struggle_tartaria_ending_compromise_decision_interloper_tt:0 "[GetGeographicalRegion('world_struggle_tartaria').GetName][region|E][SCOPE.ScriptValue('fp2_struggle_compromise_uninvolved_percent_value')]% или более из территории[struggle_interloper|E]возможно[struggle_uninvolved|E][rulers|E]иметь при себе（текущий：[SCOPE.ScriptValue('struggle_tartaria_ending_compromise_decision_region_interloper_percent_value')|1]%）"
+ struggle_tartaria_ending_compromise_truce_tt:1 "[independent|E]из[struggle_involved|E][rulers|E]Ничего не произошло между[wars|E]（текущий：[SCOPE.ScriptValue('struggle_tartaria_ending_compromise_decision_war_counter_value')|0]）"
+ # Effects
+ oe_struggle_compromise_create_new_kingdoms_tt:0 "[GetGeographicalRegion('world_struggle_tartaria').GetName][region|E]Все[independent|E]возможно отделение из[duchy|E]стать[de_jure|E][kingdom|E]"
+ oe_struggle_compromise_create_new_empires_tt:1 "[GetGeographicalRegion('world_struggle_tartaria').GetName][region|E]Внутри все[counties|E]больше, чем[EmptyScope.ScriptValue('fp2_struggle_compromise_ending_minimal_empire_size')|0]часть земли из[de_jure|E][kingdom|E]стать[de_jure|E][empire|E]оставшиеся из[kingdoms|E]будут сгруппированы в соседние[empire|E]из[de_jure|E]。"
+ oe_struggle_compromise_house_rewards_tt:2 "Вы и[independent|E]из[struggle_involved|E][rulerpossessive|E]из[houses|E]"
+ oe_struggle_compromise_house_enforce_truce_rewards_tt:0 "Разблокировать для остального[houses|E]из[enforce_truce|E][interaction|E]"
+ oe_struggle_compromise_defensive_rewards_tt:2 "Вы и[independent|E]из[struggle_involved|E][rulerpossessive|E]из[capital|E][counties|E]"
+ oe_struggle_compromise_truce_tt:1 "Все[independent|E]из[struggle_involved|E][ruler|E]Подписывайте друг друга#V 10год#!из[truce|E]"
+ TRUCE_FP2_COMPROMISE:0 "Пограничный компромисс"
+ # Modifiers
+ oe_struggle_compromise_house_reward_modifier:0 "Компромисс"
+ oe_struggle_compromise_house_reward_modifier_desc:0 "Семья вывела свою территорию из борьбы за слияние."
+ oe_struggle_compromise_defensive_reward_modifier:0 "Региональная крепость"
+ oe_struggle_compromise_defensive_reward_modifier_desc:1 "Графство является столицей одного из вассальных государств на крепости, пережившей многовековую борьбу."
+ ##### Conciliation ######
+ struggle_tartaria_ending_conciliation_decision:1 "И тот же для одной семьи"
+ struggle_tartaria_ending_conciliation_decision_desc:0 "Раны, нанесенные за последние несколько столетий, нелегко заживут, но мы должны упорно трудиться, чтобы надолго сохранить мир во всём мире. Настоящая власть принадлежит всем нам - людям."
+ struggle_tartaria_ending_conciliation_decision_tooltip:0 "$struggle_tartaria_ending_hostility_decision_tooltip$"
+ struggle_tartaria_ending_conciliation_decision_confirm:0 "$struggle_tartaria_ending_hostility_decision_confirm$"
+ # Triggers
+ struggle_tartaria_ending_conciliation_decision_alliance_tt:0 "Остальные все[independent|E]из[struggle_involved|E][rulers|E]вместе со всеми быть[alliance|E]（[SCOPE.ScriptValue('struggle_tartaria_ending_conciliation_decision_alliance_counter_value')|0]/[SCOPE.ScriptValue('struggle_tartaria_ending_ending_decision_foreign_realm_total_value')|0]）"
+ #Effects
+ oe_struggle_conciliation_marriage_unlocked_tt:1 "Постоянный#positive_value Допускать#!Все[struggle_involved|E][cultures|E]проводить меж приговором[marriage|E]"
+ oe_struggle_conciliation_holy_war_disabled_tt:1 "Постоянный#negative_value Запрещать#!полный[struggle_involved|E][cultures|E]из-за агресии[holy_wars|E]"
+ oe_struggle_conciliation_acceptance_tt:0 "Пограничный из распутанного"
+ oe_struggle_conciliation_culture_tt:0 "Все[struggle_involved|E][cultures|E]получить#positive_value +[SCOPE.ScriptValue('fp2_struggle_conciliation_culture_acceptance_value')|0]%#![cultural_acceptance|E]"
+ oe_struggle_conciliation_join_war_tt:1 "[struggle_involved|E][culture|E]и[faith|E]из[rulers|E]вы всегда можете объединиться друг с другом для[GetGeographicalRegion('world_struggle_tartaria').GetName]защиты от иноземных злоумышленников[wars|E]"
+ # Modifiers
+ fp2_struggle_conciliation_house_reward_modifier:0 "и развязать"
+ fp2_struggle_conciliation_house_reward_modifier_desc:0 "Семья считает, что залогом долгосрочного мира является гармония и толерантность."
+ ### Common
+ oe_struggle_can_create_empire_of_cathay_tt:0 "Разблокировать[GetTitleByKey('e_cathay').GetNameNoTier][empire|E]создавать"
+ oe_struggle_compromise_destroy_cathay_tt:1 "[GetTitleByKey('e_cathay').GetNameNoTier][empire|E]на постоянный#negative_value Уничтожение#!"  #____改为洗法理
+
+ CB_COST_FP2_STRUGGLE_HOSTILITY_CULTURE_DISCOUNT:0 "враждебно относятся друг к другу"
+ CB_COST_FP2_STRUGGLE_HOSTILITY_FAITH_DISCOUNT:0 "$CB_COST_FP2_STRUGGLE_HOSTILITY_CULTURE_DISCOUNT$"
+ struggle_tartaria_ending_hostility_decision_correct_phase_tt:1 "текущий[struggle_phase|E]Это фаза враждебности."
+ struggle_tartaria_ending_compromise_decision_correct_phase_tt:1 "текущий[struggle_phase|E]Это фаза перемен"
+ struggle_tartaria_ending_conciliation_decision_correct_phase_tt:1 "текущий[struggle_phase|E]Это фаза примерения"
+ fp2_struggle_house_tt:1 "Все[house|E]члены："
+ fp2_struggle_compromise_war_cost_tt:0 "Для остальных[struggle_involved|E][cultures|E]、[faiths|E]из$HOLY_WAR_DUCHY_NAME$и$CONQUEST_DUCHY_CB_NAME$[casus_bellis|E]：#negative_value +50%#!"
+ CB_COST_FP2_STRUGGLE_COMPROMISE_MULTIPLIER:0 "Взаимный компромисс"
+ struggle_compromise_duchy_transfer_tt:0 "присоединиться и[completely_controlled|E]из[duchies|E][de_jure|E]к[top_liege|E]из правителя[kingdom|E]передача"
+ fp2_struggle_can_keep_using_struggle_clash_tt:0 "[struggle_conquest|E]всё еще доступен"
+
+ struggle_ending_decision_correct_involvement_tt:0 "Вы[struggle_involved|E]"
+
+ primary_spouse_same_culture_tt:0 "Главный супруг является участником борьбы и не принадлежит к той же культуре."

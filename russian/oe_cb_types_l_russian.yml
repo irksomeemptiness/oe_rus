@@ -1,0 +1,30 @@
+﻿l_russian:
+   # "统一华夏"
+  CONQUEST_HUAXIA_CB_NAME:0 "За объединение Китая"
+   # "一统天下"
+  CHINA_WAR_OF_REUNIFICATION_NAME:0 "За объединение Китая"
+   # "一统天下"
+  WAR_OF_REUNIFICATION:0 "За объединение Китая"
+   # "统一华夏"
+  SOUTHWAR_OF_REUNIFICATION_NAME:0 "За объединение Китая"
+   # "统一华夏"
+  SOUTHWAR_OF_REUNIFICATION:0 "За объединение Китая"
+
+MANDATE_WAR_NAME:0 "Мандатная война"
+MANDATE_WAR_NAME_BASE:0 "Мандатная война"
+MANDATE_WAR_CB_NAME:0 "Мандатная война"
+
+SHATUO_UNITE_NAME:0 "ОБЪЕДИНЕНИЕ ШАТУО"
+CONQUEST_HUAXIA_CB_NAME:0 "ЗАВОЕВАНИЕ ХУАСЯ"
+CHINA_WAR_OF_REUNIFICATION_NAME:0 "ВОССОЕДИНЕНИЕ"
+WAR_OF_REUNIFICATION:0 "ВОЙНА ЗА ВОССОЕДИНЕНИЕ"
+STEPPE_WAR_OF_REUNIFICATION_NAME:0 "ЗАВОЕВАНИЕ СТЕПЕЙ"
+STEPPE_WAR_OF_REUNIFICATION:0 "ЗАВОЕВАНИЕ СТЕПЕЙ"
+
+MIGRATION_INVASION_WAR_NAME:0 "ВЕЛИКОЕ ПЕРЕСЕЛЕНИЕ"
+MIGRATION_INVASION_WAR_NAME_BASE:0 "ВЕЛИКОЕ ПЕРЕСЕЛЕНИЕ"
+MIGRATION_INVASION_CB_NAME:0 "ВЕЛИКОЕ ПЕРЕСЕЛЕНИЕ"
+
+JURCHEN_INVASION_WAR_NAME:0 "ВТОРЖЕНИЕ ЧЖУРЧЖЭНЕЙ
+
+used_lifetime_migration:0 "В течение жизни дважды использовалась миграция"

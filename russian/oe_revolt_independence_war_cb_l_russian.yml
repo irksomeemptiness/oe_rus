@@ -1,0 +1,11 @@
+﻿l_russian: 
+ revolt_independence_war:0 "Восстание"
+ revolt_independence_war_name:0 "[ATTACKER.GetShortUIName|U]Восстание"
+ revolt_independence_war_base_name:0 "[ATTACKER.GetShortUIName|U]Восстание"
+ revolt_independence_war_cb_name:0 "Восстание"
+ 
+ revolt_independence_war_liege_will_attend:0 "Все ваши ближайшие лорды объявят вам войну"
+
+ FACTION_chinese_peasant_title_NAME:0 "Небесное правосудие"
+ chinese_peasant_title:0 "Крестьянская армия"
+ shuzu_event_troops:0 "Солдаты Мунси"

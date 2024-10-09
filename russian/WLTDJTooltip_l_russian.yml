@@ -1,0 +1,13 @@
+﻿l_russian:
+# :0 ""
+#WLTDJ20211219
+
+ WLTDJTooltip_decision_0001.tt:0 "Просмотреть описание новых механик мода 'Восточная династия'"
+ WLTDJTooltip_decision_0001.tooltip:0 "Просмотреть описание новых механик мода 'Восточная династия'"
+ WLTDJTooltip_decision_0001_desc:0 "Просмотреть описание новых механик мода 'Восточная династия'"
+ WLTDJTooltip_decision_0001_confirm:0 "Просмотреть описание новых механик мода 'Восточная династия'"
+ WLTDJTooltip.0001.tt:0 "Подсказка о новых механиках"
+ WLTDJTooltip.0001.desc:0 "$CorruptionSystemTooltip$$TributeSystemTooltip$$Sinic_tooltip$"
+ WLTDJTooltip.0001.a:0 "Понятно"
+ #WLTDJTooltip_character_window_tooltip_001:0 "$CorruptionSystem_corruption_tip_for_character_window$ $Sinic_tip_for_character_window$"
+ #WLTDJTooltip_character_window_tooltip_001:0 "Общая степень коррупции：[CHARACTER.MakeScope.ScriptValue('CorruptionSystem_corruption_value')|2]\nОбщая степень коррупции (исключая факторы типа контракта):：[CHARACTER.MakeScope.ScriptValue('CorruptionSystem_corruption_excluding_contract_value')|2]\n"

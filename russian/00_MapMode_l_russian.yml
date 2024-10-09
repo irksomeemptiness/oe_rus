@@ -1,0 +1,40 @@
+﻿l_russian:
+
+chaogong_map:0 "Карта Трибутума"
+ chaogong_map_desc:0 "карта дани"
+ chaogong_map_tooltip:0 "#T Карта Трибутума#!\nНа карте Трибутума Дань будет показан в цвете своего сюзерена, в то время как цвета разных типов Данников будут иметь небольшие различия."
+ East_contract_map:0 "Очертание земли под небом"
+CUSTOM_TRIBUTARY_MAP_ME:0 "По умолчанию — Империя"
+CUSTOM_TRIBUTARY_MAP_MY_ALLEY:0 "Цивилизация данников"
+CUSTOM_TRIBUTARY_MAP_MY_TRIBUTARY:0 "Профсоюзы"
+CUSTOM_TRIBUTARY_MAP_UNSUZERAIN_KINGDOM:0 "Гегемония и подданные"
+CUSTOM_TRIBUTARY_MAP_UNFRIENDLY_EMPIRE:0 "Неприсоединившаяся соседняя империя"
+
+ East_contract_map_desc:0 "Имперский контракт"
+ East_contract_map_tooltip:0 "#T Карта Правительства#!\nПоказаны правительственные различия в рамках Империи Китайской Имперской системы. Ваш Домен будет отображаться цветом по умолчанию: Имперская префектура и бюрократическое правительство - оранжевым, Военная префектура и правительство Легиона - фиолетовым, Лояльное королевство - зеленым; Феодальные, племенные, теократические и другие правительства синего цвета. Чтобы поддерживать длительный мир и стабильность, вы должны тщательно контролировать соотношение и распределение".
+CUSTOM_CONTRACT_MAP_ME:0 "По умолчанию — Домен Империи"
+CUSTOM_CONTRACT_MAP_BUREAU:0 "Гражданская префектура"
+CUSTOM_CONTRACT_MAP_LEGION:0 "Военная префектура"
+CUSTOM_CONTRACT_MAP_ROYAL:0 "Королевский домен"
+CUSTOM_CONTRACT_MAP_OTHERS:0 "Автономный регион"
+
+siro_trade_map:0 "Торговля"
+SIRO_TRADE_MAP_TOOLTIP:0 "В разработке"
+
+ SIRO_SPECIAL_SLOT_MAP_desc:0 "Здания с региональным привкусом"
+ SIRO_SPECIAL_SLOT_MAP:0 "Здания с региональным привкусом"
+ siro_special_slot_map:0 "Здания с региональным привкусом"
+ SIRO_SPECIAL_SLOT_MAP_TOOLTIP:0 "Показаны святилища, чудеса и здания с региональным колоритом"
+ CUSTOM_CONTRACT_MAP_HOLY_DONE:0 "Чудо"
+ CUSTOM_CONTRACT_MAP_HOLY_UN:0 "Стратегические ресурсы"
+ CUSTOM_CONTRACT_MAP_SPECIAL_DONE:0 "Храм в святилище"
+ CUSTOM_CONTRACT_MAP_SPECIAL_UN:0 "Незастроенное святилище"
+
+БОРЬБА:0 "Борьба"
+STRUGGLE_TOOLTIP:0 "Показать текущую борьбу"
+
+Bureaucrat_houses:0 "Дома бюрократов"
+Bureaucrat_houses_desc:0 "#T Режим карты домов бюрократов#!\n Показать все префектуры, отвечающие за вас и членов вашей семьи под одним и тем же двором Поднебесной"
+CUSTOM_BUREAUCRAT_MAP_SELF:0 "Префектура самостоятельно"
+CUSTOM_BUREAUCRAT_MAP_DEEP:0 "Префектура в вашей семье"
+CUSTOM_BUREAUCRAT_MAP_BLUE:0 "Префектура в вашей династии"

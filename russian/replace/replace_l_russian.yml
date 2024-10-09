@@ -1,0 +1,27 @@
+﻿l_russian:
+
+CHARACTER_TT_NAME:0 "[Character.Custom('OE_GetUINameNotMeNoTooltip')]"
+CHARACTER_TT_NAME_AGE:0 "[Character.Custom('OE_GetUINameNotMeNoTooltip')]#medium , [Character.GetAge]#!"
+OUTLINER_PINNED_CHARACTER:0 "[Character.Custom('OE_GetUINameNotMeNoTooltip')]#medium , [Character.GetAge]#!"
+
+ LOWBORN:0 ""
+ unlanded_plural:0 ""
+ none:0 ""
+ none_plural:0 ""
+
+ king_feudal_male_altaic_group:0 "[Character.Custom('AltaicZunhao')][Character.Custom('altaic_title_king_male')]"
+ king_feudal_female_altaic_group:0 "[Character.Custom('AltaicZunhao')][Character.Custom('altaic_title_king_female')]"
+ kingdom_feudal_altaic_group:0 "[Character.Custom('altaic_title_kingdom')]"
+ emperor_feudal_male_altaic_group:0 "[Character.Custom('AltaicZunhao')][Character.Custom('altaic_title_emperor_male')]"
+ emperor_feudal_female_altaic_group:0 "[Character.Custom('AltaicZunhao')][Character.Custom('altaic_title_emperor_female')]"
+ empire_feudal_altaic_group:0 "[Character.Custom('altaic_title_empire')]"
+
+ changan_desc:0 "Вы не держите в руках $c_changan$ $c_luoyang$ $c_bianzhou$ $c_kongmeng$"
+
+ legend_mythical_descent_name: "[Localize( beast )|U] Кровь"
+ legend_mythical_descent_desc: "Один из моих предков был могущественным [Localize( beast )]".
+
+ EVENT_WINDOW_OPTION_AVAILABLE_TRAIT:1 "Эта возможность доступна, поскольку персонаж обладает [Trait.GetName(GetPlayer)] [trait|E]"
+
+ # Кнопка "DLC"
+ DLC_BUTTON_TOOLTIP:1 "#T [DlcItem.GetDlc.GetName]#!\n[DlcItem.GetDlc.GetDesc]\n\n#low [SelectLocalization( или( DlcItem.GetDlc.IsEnabled, EqualTo_string(DlcItem.GetDlc.GetName, Localize(„dlc_POD“) ) ), 'DLC_ENABLED', 'DLC_NOT_ENABLED' )]#![AddTextIf( Не( EqualTo_string(DlcItem.GetDlc.GetName, Localize('dlc_POD') ) ), '\n#Нажмите, чтобы посетить магазин#!' )]"

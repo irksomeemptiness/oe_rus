@@ -1,0 +1,9 @@
+﻿l_russian:
+ ascended_throne_memory:0 "восшел на трон"
+ oe_ascended_throne_memory_desc:0 "Я взял на себя управление [ROOT.Var('landed_title').Title.GetBaseName]"
+ oe_ascended_throne_memory_desc_second_perspective:0 "вы взяли на себя управление [ROOT.Var('landed_title').Title.GetBaseName]"
+ oe_ascended_throne_memory_desc_third_perspective:0 "[owner.GetFirstName] взял на себя управление [ROOT.Var('landed_title').Title.GetBaseName]"
+ lost_title_memory:0 "потерял значимый титул"
+ oe_lost_title_memory_desc:0 "Я передал [ROOT.Var('landed_title').Title.GetBaseName] [new_holder.GetFullName]"
+ oe_lost_title_memory_desc_second_perspective:0 "вы передали [ROOT.Var('landed_title').Title.GetBaseName] [new_holder.GetFullName]"
+ oe_lost_title_memory_desc_third_perspective:0 "[owner.GetFirstName] передал [ROOT.Var('landed_title').Title.GetBaseName] [new_holder.GetFullName]"

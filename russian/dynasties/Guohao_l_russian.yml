@@ -1,0 +1,117 @@
+﻿l_russian:
+ trait_founding_monarch:0 "Монарх-основатель"
+ trait_restoration_monarch:0 "Монарх-реставратор"
+ founding_monarch:0 "Монарх-основатель"
+ restoration_monarch:0 "Монарх-реставратор"
+ Loc_GetUIguohao_none:0 ""
+ Loc_GetUIguohao_default:0 "[ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]"
+ Loc_GetUIguohao_e_tang:0 "Тан"
+ Loc_GetUIguohao_e_song:0 "Сун"
+ Loc_GetUIguohao_e_grand_liao:0 "Ляо"
+ Loc_GetUIguohao_k_zhao:0 "Чжао"
+ Loc_GetUIguohao_k_yan:0 "Ян"
+ Loc_GetUIguohao_k_wei:0 "Вей"
+ Loc_GetUIguohao_k_tengri:0 "Дай"
+ Loc_GetUIguohao_k_jin:0 "Джин"
+ Loc_GetUIguohao_k_xia_east:0 "Ся"
+ Loc_GetUIguohao_k_longxi:0 "Лонгси"
+ Loc_GetUIguohao_k_qin:0 "Цинь"
+ Loc_GetUIguohao_k_shu:0 "Шу"
+ Loc_GetUIguohao_k_zhou:0 "Джоу"
+ Loc_GetUIguohao_k_qi:0 "Чи"
+ Loc_GetUIguohao_k_chu:0 "Чу"
+ Loc_GetUIguohao_k_wu:0 "Ву"
+ Loc_GetUIguohao_k_liao:0 "Ляо"
+ Loc_GetUIguohao_k_goryeo:0 "Корё"
+ Loc_GetUIguohao_e_wuyue:0 "У-Юэ"
+ Loc_GetUIguohao_e_qian:0 "Цянь"
+ Loc_GetUIguohao_k_nanyue:0 "Наньюэ"
+ Loc_GetUIguohao_e_viet:0 "Вьетнам"
+ Loc_GetUIguohao_e_dali:0 "Дали"
+ Loc_GetUIguohao_e_lanxang:0 "Ланьцанг"
+ Loc_GetUIguohao_e_hexi:0 "Лян"
+ Loc_GetUIguohao_e_yuan:0 "Юань"
+ Loc_GetUIguohao_e_zhou:0 "Джоу"
+ Loc_GetUIguohao_e_zheng:0 "Чжэн"
+ Loc_GetUIguohao_e_chen:0 "Чен"
+ Loc_GetUIguohao_e_min:0 "Мин"
+ Loc_GetUIguohao_e_lu:0 "Лю"
+ Loc_GetUIguohao_e_weei:0 "Вей"
+ Loc_GetUIguohao_e_zhongshan:0 "Чжуншань"
+ Loc_GetUIguohao_e_qiang:0 "Цян"
+ Loc_GetUIguohao_e_liang:0 "Лян"
+ Loc_GetUIguohao_e_han:0 "Хань"
+ Loc_GetUIguohao_e_cao:0 "Цао"
+ Loc_GetUIguohao_e_xuu:0 "Хо"
+ Loc_GetUIguohao_e_sui:0 "Суй"
+ Loc_GetUIguohao_e_gan:0 "Ган"
+ Loc_GetUIguohao_cn_pu:0 "Пу"
+ Loc_GetUIguohao_cn_xie:0 "Ся"
+
+ east_title.0004.new:0 "Выберите других"
+ guohao_cus:0 "Это не хорошо"
+ guohao_cus.tooltip:0 "Пользовательское название"
+
+ guohao_enter_your_name:0 "[GetPlayer.GetLocalizedText('custom_guohao_new')]"
+ CUSTOM_GUOHAO:0 "[GetPlayer.GetLocalizedText('custom_guohao_new')]"
+
+
+ guohao.001.title:0 "Используйте это"
+ guohao.001.desc:0 "Но теперь Святой Император, оживляя сухой астрал;\n Восемь Пустошей покорны, четыре измерения более открыты;\n заслуга охватывает пять императоров, добродетель - три императора;\n установление числа мира, ясный закон торжественного торжества;\n должен быть Небом и защищать людей, правильный Шуо - это Сближение;\n к песне Ян, Фу Вэй Шаньцзянь!"
+
+ guohao.002.title:0 "Настроить название титула"
+ guohao.002.desc:0 "От Желтого императора до Шуня и Юя, все они носили одну и ту же фамилию, но разные названия стран, чтобы запечатлеть свою добродетель."
+ east_title.0004.t:0 "Имя вашей династии"
+ east_title.0004.desc:0 "Но теперь Святой Император оживляет Цянь Ган; \n все восемь пустынь покорны, и четыре измерения более открыты; \n достижения пяти императоров и добродетели трех императоров; \n установление имени мира, и ясный закон и торжественная торжественность; \n ответ перед Небом и защита народа, и правильное и верное направление должно быть исправлено; \n петь ради народа, и быть развлекаемым Императором!"
+ guohao.2.a:0 "Установить это как число"
+ guohao_custom:0 "Пользовательский"
+ guohao_xia:0 "Это имя Ся, так как оно было создано его превосходительством, и его добродетель была услышана по следам Юя".
+ guohao_shang:0 "Это название династии Шан". guohao_zhou:0 "Шан".
+ guohao_zhou:0 "На этот раз благосклонность и добродетель императора пользуются дурной славой, а ритуалы и музыка почитаются с именем Чжоу".
+ guohao_qin:0 "Император очищает Шесть гармоний и объединяет Восемь пустынь, и его называют Цинь".
+ guohao_han:0 "Его зовут Хань, ибо он расширил земли и восстановил корону".
+ guohao_sui:0 "Последней из них была династия Суй, которая должна была объединить варваров и летов, служить и ближним, и дальним."
+ guohao_tang:0 "Имя императора - Тан".
+ guohao_song:0 "Император снова создал страну, и её назвали Сун".
+ guohao_ming:0 "На этот раз Господь поможет миру и спасет людей, и солнце и луна будут вновь открыты, число Мин"
+ #### королевский бафф
+ cust_dynasty:0 "Новая королевская династия"
+ xia_dynasty:0 "Королевская династия Ся"
+ shang_dynasty:0 "Королевская династия Шан"
+ zhou_dynasty:0 "Королевская династия Чжоу"
+ qin_dynasty:0 "Династия Цинь"
+ han_dynasty:0 "Династия Хань"
+ sui_dynasty:0 "Императорская династия Суй"
+ tang_dynasty:0 "Королевская династия Тан"
+ song_dynasty:0 "Императорская семья Сун"
+ ming_dynasty:0 "Династия Мин"
+
+ east_title.0004.a:0 "Государство назвалось Тан".
+ east_title.0004.b:0 "Государство назвалось Сун".
+ east_title.0004.c:0 "Государство назвалось Ляо".
+ east_title.0004.e:0 "Государство назвалось Чжао".
+ east_title.0004.f:0 "Государство назвалось Янь".
+ east_title.0004.g:0 "Государство назвалось Вэй".
+ east_title.0004.h:0 "Государство назвалось Дай".
+ east_title.0004.i:0 "Государство назвалось Цзинь".
+ east_title.0004.j:0 "Государство назвалось Ся".
+ east_title.0004.k:0 "Государство назвалось Цинь".
+ east_title.0004.l:0 "Государство назвалось Лян".
+ east_title.0004.l1:0 "Государство назвалось Лян".
+ east_title.0004.l2:0 "Государство назвалось Лу ".
+ east_title.0004.l3:0 "Государство назвалось Вэй".
+ east_title.0004.l4:0 "Государство назвалось Чэнь "
+ east_title.0004.m:0 "Государство назвалось Хань"
+ east_title.0004.n:0 "Государство назвалось Суй"
+ east_title.0004.o:0 "Государство назвалось Шу"
+ east_title.0004.p:0 "Государство назвалось Чу"
+ east_title.0004.q:0 "Государство назвалось Чжоу"
+ east_title.0004.r:0 "Государство назвалось Цао" 
+ east_title.0004.s:0 "Государство назвалось Сюй"
+ east_title.0004.t2:0 "Государство назвалось Ци"
+ east_title.0004.u:0 "Государство назвалось Ву "
+ east_title.0004.v:0 "Государство назвалось Сунь Цюань"
+ east_title.0004.w:0 "Государство назвалось Гань"
+ east_title.0004.x:0 "Государство назвалось Нань Юэ"
+ east_title.0004.y:0 "Государство назвалось Цян".
+ east_title.0004.z:0 "Государство назвалось Пу".

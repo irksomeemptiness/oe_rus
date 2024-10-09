@@ -1,0 +1,91 @@
+﻿l_russian:
+ tartaria_struggle:0 "Борьба в Тартарии"
+ tartaria_struggle_desc:0 "Крепость — это место соединения сельскохозяйственных равнин и лугов в восточной Евразии. Разные источники существования, смешанные этнические группы и запутанные империи вместе составляют здесь эпопею столкновения и интеграции."
+ game_concept_struggle_tartaria_phase_opportunity:0 "возможность"
+ struggle_tartaria_phase_opportunity:0 "возможность"
+ struggle_tartaria_phase_opportunity_desc:0 "На этапе миграции люди перемещаются между кочевым скотоводством и мелиорацией. Недоразумения и трения неизбежны. Оленеводы надеются найти собеседников для обмена ресурсами сельскохозяйственных земель, в то время как лидеры сельскохозяйственных земель надеются защитить свою собственную землю и население. "
+ game_concept_struggle_tartaria_phase_hostility:0 "враждебность"
+ struggle_tartaria_phase_hostility:0 "враждебность"
+ struggle_tartaria_phase_hostility_desc:0 "На этапе враждебности споры между племенами и городами-государствами перерастают в войны между племенными союзами и сельскохозяйственными империями; приграничные города, которые долгое время сопротивлялись иностранцам, будут наводнены войсками; враждебность может перерасти в поспешное и кровавое завоевание. Или вступить в стадию компромисса и взаимного обмена".
+ game_concept_struggle_tartaria_phase_conciliation:0 "примирение"
+ struggle_tartaria_phase_conciliation:0 "примирение"
+ struggle_tartaria_phase_conciliation_desc:0 "На этапе аккультурации две стороны приграничной крепости поддерживают взаимную торговлю, брак и культурное влияние. Сельскохозяйственная империя поглощает племенных воинов для борьбы с другими врагами; иностранные племенные организации проникают в империю, но их потомки будут считаться сами как ортодоксальные конфликты также заставят пограничную крепость вернуться к миграции и враждебности".
+ game_concept_struggle_tartaria_phase_compromise:0 "манифест"
+ struggle_tartaria_phase_compromise:0 "проявление"
+ struggle_tartaria_phase_compromise_desc:0 "На этапе Динской революции империи приходили в упадок одна за другой, а аристократические военачальники или варварские стражи, сидевшие на границах, не могли вынести угнетения или подозрений империи, поэтому они дезертировали и вторглись в центр, завершив династию. перемен, а затем заявили, что являются наследниками Небесной Династии и сопротивлялись Племенному союзу дальше".
+
+ world_struggle_tartaria:0 "Тартария"
+ oe_county_struggle_cb:0 "$county_struggle_cb$"
+
+ struggle_parameter_unlocks_oe_reclamation_casus_belli:2 "разблокирует восстановление [casus_belli|E]"
+ game_concept_oe_reclamation:0 "Цель завоевать мир"
+ game_concept_oe_reclaiming:0 "Стремитесь к миру"
+ game_concept_oe_reclamations:0 "Цель завоевать мир"
+ game_concept_oe_reclamation_desc:2 "Это особый тип [war|E], который могут использовать [struggle_involved|E][rulers|E] в [tartaria_struggle|E].\n\n Атакующий стремится победить [struggle_interloper|E] или [struggle_uninvolved|E][ruler|E] может занять территорию Поднебесной и основать новую династию на Центральных равнинах."
+
+
+ struggle_parameter_unlocks_secure_tartaria_foothold_decision:1 "Разблокирует безопасную точку опоры в Тартарии[decision|E]"
+ game_concept_secure_tartaria_foothold_decision:0 "Надежная точка опоры в Тартарии"
+ secure_tartaria_foothold_decision_title:0 "Надежная точка опоры в Тартарии"
+ secure_tartaria_foothold_decision_desc:1 "Ху Хань сражался годами и становился все более слабым, открывая дверь на Центральные равнины для посторонних. Если один человек может претендовать на роль нового [ROOT.Char.GetFaith.GetReligion.GetAdjectiveNoTooltip] лидера региона, или просто как славные захватчики, несомненно, много выиграют".
+ secure_tartaria_foothold_decision_tooltip:0 "Объединить приграничные земли"
+ secure_tartaria_foothold_decision_confirm:0 "Множество боевых достоинств"
+ oe_struggle_uninvolved_or_external_tt:0 "Ваша [столица|E] не принадлежит [GetGeographicalRegion('world_struggle_tartaria').GetName][регион|E]"
+ fp2_struggle_secure_tartaria_foothold_empire_tt:0 "Ваша [hold|E] не является [империей|E][title|E] из [GetTitleByKey('e_celestia').GetNameNoTier]"
+
+ fp2_struggle_phase_hostility_or_opportunity_tt:1 "Назначьте [struggle_phase|E] враждебной фазой или [struggle_phase_tartaria_opportunity|E] (в настоящее время: [GetStruggle('tartaria_struggle').GetCurrentPhase.GetName])"
+ fp2_struggle_secure_tartaria_foothold_kingdom_tartaria_tt:0 "Вы [hold|E] и [completely_control|E] три [GetTitleByKey('e_celestia').GetNameNoTier] из [de_jure|E][kingdom|E]"
+
+ fp2_struggle_secure_tartaria_foothold_kingdom_faith_tt:0 "По крайней мере 50% этих [titlepossessive|E][de_jure|E][округа|E] являются [THIS.Char.GetFaith.GetAdjective]"
+ fp2_struggle_secure_tartaria_foothold_kingdom_border_tt:0 "Этот [title|E] примыкает к земле [empire|E][de_jure|E] вашей [hold|E], которая не является [GetTitleByKey('e_celestia').GetNameNoTier]"
+ fp2_struggle_secure_tartaria_foothold_kingdom_held_tt:0 "Вы владеете этим [title|E] не менее 15 лет"
+
+ fp2_struggle_secure_tartaria_foothold_religion_tt:0 "Вы [hold|E][GetGeographicalRegion('world_struggle_tartaria').GetName][region|E] имеете как минимум #Z [SCOPE.ScriptValue('fp2_struggle_secure_tartaria_foothold_religion_target_percent_value')|0]%#!'s . Char.GetFaith .GetReligion.GetAdjective][faith|E][counties|E] (текущий: [SCOPE.ScriptValue('fp2_struggle_secure_tartaria_foothold_religion_percent_value')|1]%)\n"
+ fp2_struggle_secure_tartaria_foothold_outsider_tt:0 "Вы [hold|E][GetGeographicalRegion('world_struggle_tartaria').GetName][region|E] имеете как минимум #Z [SCOPE.ScriptValue('fp2_struggle_secure_tartaria_foothold_outsider_target_percent_value')|0]%#! из [counties| Э ] ( Текущее: [SCOPE.ScriptValue('fp2_struggle_secure_tartaria_foothold_outsider_percent_value')|0]%)\n"
+
+ fp2_struggle_secure_tartaria_foothold_empire_held_effect_tt:0 "Все [GetTitleByKey('e_celestia').GetNameNoTier][de_jure|E][kingdom|E], которые соответствуют следующим условиям, станут [de_jure|E] из [THIS.Char.GetPrimaryTitle.GetNameNoTier]"
+ fp2_struggle_secure_tartaria_foothold_empire_dejure_effect_tt:0 "Все [GetTitleByKey('e_celestia').GetNameNoTier][de_jure|E][kingdom|E] которые отвечают следующим условиям, станут [de_jure] of [THIS.Char.GetPrimaryTitle.GetDeJureLiege.GetNameNoTier][empire| Э] |Э]"
+
+ fp2_struggle_secure_tartaria_foothold_ends_the_struggle_tt:0 "Борьба заканчивается"
+
+  
+tartaria_footholder_transfer_tt:0 "[ЭТО][ЭТО.Title.GetName][ЭТО.GetName]"
+
+ oe_struggle.1000.t:0 "$secure_tartaria_foothold_decision_title$: Интеграция [tartaria_footholder.GetPrimaryTitle.GetAdjectiveNoTooltip]"
+ oe_struggle.1000.involved_religion:0 "Бесконечный раздор Ху-Ханьской войны почти захлестнул каждую территорию [ROOT.Char.GetFaith.GetReligion.GetAdjective] в регионе.\n\nБез нашего вмешательства [ROOT.Char. Верующие GetFaith .HighGodNamePossessive] в конечном итоге может быть отравлен тираническими варварами \n\n"
+ oe_struggle.1000.desc:0 "Раскол китайцев и верований дает нам прекрасную возможность. Они слишком заняты борьбой друг с другом, чтобы обращать внимание на вторжение [ROOT.Char.GetFaith.GetReligion.GetAdjective] на Центральные равнины. "
+ oe_struggle.1000.involved_faith:0 "Мы являемся законными хранителями [ROOT.Char.GetFaith.GetAdherentNamePlural] на Западе, и теперь они в безопасности под защитой [ROOT.Char.GetPrimaryTitle.GetDefinitiveName]."
+ oe_struggle.1000.uninvolved_faith:0 "Наша ответственность - принести свет [ROOT.Char.GetFaith.GetName]; став частью [ROOT.Char.GetPrimaryTitle.GetDefinitiveName], эти земли снова станут процветающими и мирный."
+ oe_struggle.1000.closing:0 "\n\nОни в конце концов поймут, что их дни ложных богов прошли, и будут благодарны, что [ROOT.Char.GetPrimaryTitle.GetDefinitiveName] под руководством [ROOT.Char.GetFaith.HighGodName] ], Спасение этой области".
+ oe_struggle.1000.a:0 "Китаю нужна свежая кровь."
+
+ oe_struggle.1001.involved_religion:0 "После столетий борьбы между Ху и Хань, нашу борьбу теперь используют тиранические [tartaria_footholder.GetPrimaryTitle.GetAdjective] варвары.\n\n"
+ oe_struggle.1001.desc:0 "Из-за отвлечения, зависти и пренебрежения мы, жители границ, дали варварам [tartaria_footholder.GetPrimaryTitle.GetAdjective] возможность использовать разногласия на нашей родине и вторгнуться в различные древние королевства Центральных равнин."
+ oe_struggle.1001.involved_faith:0 "[tartaria_footholder.GetTitledFirstName] заявляет [tartaria_footholder.GetHerselfHimself], что он является законным [tartaria_footholder.GetFaith.GetAdjectiveNoTooltip] лидером Центральных равнин, и использует победу [tartaria_footholder.GetHerHis] как знак что положение [tartaria_footholder.GetHerHis] ухудшается по отношению к Китаю. Доказательство законного правления над территорией [tartaria_footholder.GetFaith.GetReligion.GetAdjective]."
+ oe_struggle.1001.same_uninvolved_faith:0 "Они утверждают, что наша неудача — это наказание [ROOT.Char.GetFaith.HighGodNamePossessive] за отклонение от пути [tartaria_footholder.GetFaith.GetName], и ​​что [tartaria_footholder.GetTitledFirstName] — это [ROOT .Char.GetFaith" .GetReligion.GetAdjective]Законный лидер Китая..."
+ oe_struggle.1001.uninvolved_faith:0 "[tartaria_footholder.GetTitledFirstName] использует победу [tartaria_footholder.GetHerHis] в качестве доказательства, утверждая, что вера [tartaria_footholder.GetHerHis] [tartaria_footholder.GetFaith.GetAdjective] является [tartaria_footholder.GetFaith.GetReligion . GetAdjective] праведный путь объединит все Центральные равнины под [tartaria_footholder.GetFaith.HighGodName]".
+ oe_struggle.1001.closing:0 "\n\n[tartaria_footholder.GetTitledFirstName] интегрировал недвижимость [tartaria_footholder.GetHerHis]. По сравнению с посягательством этого сторонника [tartaria_footholder.GetFaith.GetAdjective], прошлые конфликты между фермерами и кочевники. О различиях просто не стоит упоминать..."
+ oe_struggle.1001.a:0 "Проклятые дикари."
+
+
+Catalyst_tribute_important:0 "Установите отношения дани [struggle_catalyst_catalyst|E]"
+Cataly_tribute_important_desc:0 "Установите отношения дани между [struggle_involved|E][ruler|E]"
+Catalyst_tribute_aid:0 "Отправьте войска в страну-повелителя [struggle_catalyst_catalyst|E]"
+Cataly_tribute_aid_desc:0 "[struggle_involved|E][ruler|E] отправил войска в страну-повелителя"
+Catalyst_exchange:0 "Struggle_catalyst_catalyst|E]"
+Cataly_exchange_desc:0 "[struggle_involved|E][ruler|E] разрешено продолжать торговать друг с другом"
+
+oe_incite_revolts_interaction:1 "Взаимодействие с подстрекательством к восстаниям"
+oe_contract_assistance_interaction:0 "Помощь по контракту"
+oe_request_contract_assistance_interaction:0 "Запросить помощь по контракту"
+oe_bargain_fealty_interaction:1 "Верность по сделке"
+oe_enforce_truce_interaction:0 "Принудить к перемирию"
+
+
+oe_request_normad_invasion_interaction:0 "Запросить вторжение нормадов"
+oe_request_normad_invasion_interaction_desc: "$fp3_request_turkic_invasion_interaction_desc$"
+recipient_secondary_oe_request_normad_invasion_interaction: "@trebuchet_icon! Захватчик"
+ oe_incursion_instability: "Нестабильность вторжения"
+ oe_incursion_instability_desc: "$incursion_instability_desc$"
+ oe_normad_invasion_cb: "Вторжение нормадов"
+ oe_normad_invasion_cb_result_tt: "$fp3_turkic_invasion_cb_result_tt$"

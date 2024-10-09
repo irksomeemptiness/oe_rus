@@ -1,0 +1,303 @@
+﻿l_russian:
+ trait_miaohao_trait_taizu:0 "Тайцзу"
+ trait_miaohao_trait_gaozu:0 "Гаозу"
+ trait_miaohao_trait_chengzu:0 "Ченгзу"
+ trait_miaohao_trait_chunzu:0 "Чунзу"
+ trait_miaohao_trait_shizu:0 "Шизу"
+ trait_miaohao_trait_aizong:0 "Айзонг"
+ trait_miaohao_trait_anzong:0 "Анзун"
+ trait_miaohao_trait_chengzong:0 "Чэнцзун"
+ trait_miaohao_trait_chongzong:0 "Чонгзонг"
+ trait_miaohao_trait_chunzong:0 "Чунцзун"
+ trait_miaohao_trait_daizong:0 "Дайзонг"
+ trait_miaohao_trait_daizong1:0 "Дайзонг1"
+ trait_miaohao_trait_daozong:0 "Даозонг"
+ trait_miaohao_trait_dezong:0 "Дезонг"
+ trait_miaohao_trait_dingzong:0 "Дингзонг"
+ trait_miaohao_trait_duzong:0 "Дузонг"
+ trait_miaohao_trait_duanzong:0 "Дуанзонг"
+ trait_miaohao_trait_gaozong:0 "Гаоцзун"
+ trait_miaohao_trait_gongzong:0 "Гунцзун"
+ trait_miaohao_trait_guangzong:0 "Гуанцзун"
+ trait_miaohao_trait_huaizong:0 "Хуайцзун"
+ trait_miaohao_trait_hengzong:0 "Хэнцзун"
+ trait_miaohao_trait_huizong:0 "Хуайцзун"
+ trait_miaohao_trait_huizong1:0 "Хайзонг"
+ trait_miaohao_trait_jianzong:0 "Цзяньцзун"
+ trait_miaohao_trait_jingzong:0 "Цзинцзун"
+ trait_miaohao_trait_jinzong:0 "Цзиньцзун"
+ trait_miaohao_trait_jinzong1:0 "Цзиньцзун1"
+ trait_miaohao_trait_kangzong:0 "Канцзун"
+ trait_miaohao_trait_lizong:0 "Лизонг"
+ trait_miaohao_trait_lizong1:0 "Лизонг"
+ trait_miaohao_trait_liezong:0 "Лиьезонг"
+ trait_miaohao_trait_mingzong:0 "Мингзонг"
+ trait_miaohao_trait_muzong:0 "Музонг"
+ trait_miaohao_trait_ningzong:0 "Нингзонг"
+ trait_miaohao_trait_qingzong:0 "Цинцзун"
+ trait_miaohao_trait_renzong:0 "Рензонг"
+ trait_miaohao_trait_ruizong:0 "Руизонг"
+ trait_miaohao_trait_shaozong:0 "Шаоцзун"
+ trait_miaohao_trait_shenzong:0 "Шэньцзун"
+ trait_miaohao_trait_shengzong:0 "Шенгзонг"
+ trait_miaohao_trait_shizong:0 "Шицзун"
+ trait_miaohao_trait_sizong:0 "Сизонг"
+ trait_miaohao_trait_shunzong:0 "Шуньцзун"
+ trait_miaohao_trait_suzong:0 "Сузун"
+ trait_miaohao_trait_taizong:0 "Тайцзун"
+ trait_miaohao_trait_weizong:0 "Вэйцзун"
+ trait_miaohao_trait_wenzong:0 "Вэньцзун"
+ trait_miaohao_trait_wuzong:0 "Вузун"
+ trait_miaohao_trait_xizong:0 "Кизонг"
+ trait_miaohao_trait_xizong1:0 "Кизонг1"
+ trait_miaohao_trait_xizong2:0 "Кизонг2"
+ trait_miaohao_trait_xianzong:0 "Кьянзонг"
+ trait_miaohao_trait_xianzong1:0 "Кьянзонг1"
+ trait_miaohao_trait_xianzong2:0 "Кьянзонг2"
+ trait_miaohao_trait_xiangzong:0 "Кьянзонг"
+ trait_miaohao_trait_xiaozong:0 "Кьянзонг"
+ trait_miaohao_trait_xingzong:0 "Кьянзонг"
+ trait_miaohao_trait_xuanzong:0 "Хуанзонг"
+ trait_miaohao_trait_xuanzong1:0 "Хуанзонг1"
+ trait_miaohao_trait_yizong:0 "Юизонг"
+ trait_miaohao_trait_yizong1:0 "Юизонг1"
+ trait_miaohao_trait_yizong2:0 "Юизонг2"
+ trait_miaohao_trait_yizong3:0 "Юизонг3"
+ trait_miaohao_trait_yingzong:0 "Юинзонг"
+ trait_miaohao_trait_yuzong:0 "Юизонг"
+ trait_miaohao_trait_yuanzong:0 "Юанзонг"
+ trait_miaohao_trait_zhangzong:0 "Джанзонг"
+ trait_miaohao_trait_zhaozong:0 "Джаозонг"
+ trait_miaohao_trait_zhezong:0 "Дзезонг"
+ trait_miaohao_trait_zhenzong:0 "Джензонг"
+ trait_miaohao_trait_zhongzong:0 "Джоузонг"
+ trait_miaohao_trait_zhuangzong:0 "Джуанзонг"
+
+ taizu:0 "Тайцзу"
+ gaozu:0 "Гаоцу"
+ chengzu:0 "Чэнцзу"
+ chunzu:0 "Чуньцзу"
+ shizu:0 "Шицзу"
+ aizong:0 "Айцзун"
+ anzong:0 "Анцзун"
+ chengzong:0 "Чэнцзун"
+ chongzong:0 "Чунгцзун"
+ chunzong:0 "Чуньцзун"
+ daizong:0 "Дайцзун"
+ daizong1:0 "Дайцзун"
+ daozong:0 "Даоцу"
+ dezong:0 "Дэцу"
+ dingzong:0 "Динцзун"
+ duzong:0 "Дуцы"
+ duanzong:0 "Дуаньцзун"
+ gaozong:0 "Гаоцзун"
+ gongzong:0 "Гунцзун"
+ guangzong:0 "Гуанцзун"
+ huaizong:0 "Хуацзун"
+ hengzong:0 "Хэнцзун"
+ huizong:0 "Хуэйцзун"
+ huizong1:0 "Хуэйцзун"
+ jianzong:0 "Цзянцзун"
+ jingzong:0 "Цзинцзун"
+ jinzong:0 "Цзинцзун"
+ jinzong1:0 "Цзинцзун"
+ kangzong:0 "Канцзун"
+ lizong:0 "Лицзун"
+ lizong1:0 "Лицзун"
+ liezong:0 "Лецзун"
+ mingzong:0 "Мингцзун"
+ muzong:0 "Муцзун"
+ ningzong:0 "Нинцзун"
+ qingzong:0 "Цинцзун"
+ renzong:0 "Жэньцзун"
+ ruizong:0 "Жуйцзун"
+ shaozong:0 "Шаоцзун"
+ shenzong:0 "Шэньцзун"
+ shengzong:0 "Шэнцзун"
+ shizong:0 "Шицзун"
+ sizong:0 "Сыцзун"
+ shunzong:0 "Шунцзун"
+ suzong:0 "Суцзун"
+ taizong:0 "Тайцзун"
+ weizong:0 "Вэйцзун"
+ wenzong:0 "Вэньцзун"
+ wuzong:0 "Уцзун"
+ xizong:0 "Сицьзун"
+ xizong1:0 "Сицьзун"
+ xizong2:0 "Сицзун"
+ xianzong:0 "Сянцзун"
+ xianzong1:0 "Сянцзун"
+ xianzong2:0 "Сянцзун"
+ xiangzong:0 "Сянцзун"
+ xiaozong:0 "Сяоцу"
+ xingzong:0 "Синьцзун"
+ xuanzong:0 "Сюаньцзун"
+ xuanzong1:0 "Сюаньцзун"
+ yizong:0 "Ицзун"
+ yizong1:0 "Ицзун"
+ yizong2:0 "Ицзун"
+ yizong3:0 "Ицзун"
+ yingzong:0 "Инцзун"
+ yuzong:0 "Юцзун"
+ yuanzong:0 "Юаньцзун"
+ zhangzong:0 "Чжанцзун"
+ zhaozong:0 "Чжаоцу"
+ zhezong:0 "Жэцу"
+ zhenzong:0 "Жэньцзун"
+ zhongzong:0 "Чжунцзун"
+ zhuangzong:0 "Чжуанцзун"
+ 
+ Loc_GetUImiaohao_taizu:0 "ТайЗу"
+ Loc_GetUImiaohao_gaozu:0 "ГаоЗу"
+ Loc_GetUImiaohao_shizu:0 "Шизу"
+ Loc_GetUImiaohao_chengzu:0 "ЧэнЗу"
+ Loc_GetUImiaohao_chunzu:0 "ЧунЗу"
+ Loc_GetUImiaohao_aizong:0 "АйЗу"
+ Loc_GetUImiaohao_anzong:0 "АнЗу"
+ Loc_GetUImiaohao_chengzong:0 "ЧенгЗонг"
+ Loc_GetUImiaohao_chongzong:0 "ЧонгЗонг"
+ Loc_GetUImiaohao_chunzong:0 "ЧуньЗонг"
+ Loc_GetUImiaohao_daizong:0 "ДайЗонг"
+ Loc_GetUImiaohao_daizong1:0 "ДайЗонг"
+ Loc_GetUImiaohao_daozong:0 "ДаоЦонг"
+ Loc_GetUImiaohao_dezong:0 "ДеЗонг"
+ Loc_GetUImiaohao_dingzong:0 "ДингЗонг"
+ Loc_GetUImiaohao_duzong:0 "ДуЗонг"
+ Loc_GetUImiaohao_duanzong:0 "ДуаньЗонг"
+ Loc_GetUImiaohao_gaozong:0 "ГаоЦонг"
+ Loc_GetUImiaohao_gongzong:0 "Гунцонг"
+ Loc_GetUImiaohao_guangzong:0 "Гуанцзун"
+ Loc_GetUImiaohao_huaizong:0 "ХуайЦонг"
+ Loc_GetUImiaohao_hengzong:0 "ХенгЗонг"
+ Loc_GetUImiaohao_huizong:0 "ХуаЗонг"
+ Loc_GetUImiaohao_huizong1:0 "Хуэйцзун"
+ Loc_GetUImiaohao_jianzong:0 "ЦзяньЗонг"
+ Loc_GetUImiaohao_jingzong:0 "ЦзинЗонг"
+ Loc_GetUImiaohao_jinzong:0 "ДжинЗонг"
+ Loc_GetUImiaohao_jinzong1:0 "Цзинзонг"
+ Loc_GetUImiaohao_kangzong:0 "КангЗонг"
+ Loc_GetUImiaohao_lizong:0 "ЛиЗонг"
+ Loc_GetUImiaohao_lizong1:0 "ЛиЗонг"
+ Loc_GetUImiaohao_liezong:0 "ЛьеЗонг
+ Loc_GetUImiaohao_mingzong:0 "МингЗонг"
+ Loc_GetUImiaohao_muzong:0 "МуЗонг"
+ Loc_GetUImiaohao_ningzong:0 "НинЗонг"
+ Loc_GetUImiaohao_qingzong:0 "Цинцзун"
+ Loc_GetUImiaohao_renzong:0 "РэнЗонг"
+ Loc_GetUImiaohao_ruizong:0 "РуиЗонг"
+ Loc_GetUImiaohao_shaozong:0 "ШаоЗонг"
+ Loc_GetUImiaohao_shenzong:0 "ШенЗонг"
+ Loc_GetUImiaohao_shengzong:0 "ШэнЦонг"
+ Loc_GetUImiaohao_shizong:0 "ШиЗонг"
+ Loc_GetUImiaohao_sizong:0 "СиЗонг"
+ Loc_GetUImiaohao_shunzong:0 "Шунцонг"
+ Loc_GetUImiaohao_suzong:0 "СуЗонг"
+ Loc_GetUImiaohao_taizong:0 "ТайЗонг"
+ Loc_GetUImiaohao_weizong:0 "ВейЗонг"
+ Loc_GetUImiaohao_wenzong:0 "ВэньЗонг"
+ Loc_GetUImiaohao_wuzong:0 "Вуцзун"
+ Loc_GetUImiaohao_xizong:0 "СиЗонг"
+ Loc_GetUImiaohao_xizong1:0 "Сицзун"
+ Loc_GetUImiaohao_xizong2:0 "Сицзун"
+ Loc_GetUImiaohao_xianzong:0 "ХианЗонг"
+ Loc_GetUImiaohao_xianzong1:0 "Сяньцзун"
+ Loc_GetUImiaohao_xianzong2:0 "СяньЗонг"
+ Loc_GetUImiaohao_xiangzong:0 "Сянцзун"
+ Loc_GetUImiaohao_xiaozong:0 "Сяоцзун"
+ Loc_GetUImiaohao_xingzong:0 "СиньЗонг"
+ Loc_GetUImiaohao_xuanzong:0 "СюаньЦонг"
+ Loc_GetUImiaohao_xuanzong1:0 "СюаньЦонг"
+ Loc_GetUImiaohao_yizong:0 "Ицзун"
+ Loc_GetUImiaohao_yizong1:0 "Ицзун"
+ Loc_GetUImiaohao_yizong2:0 "Ицзун"
+ Loc_GetUImiaohao_yizong3:0 "Ицзун"
+ Loc_GetUImiaohao_yingzong:0 "Инцзун"
+ Loc_GetUImiaohao_yuzong:0 "ЮЗонг"
+ Loc_GetUImiaohao_yuanzong:0 "Юаньцзун"
+ Loc_GetUImiaohao_zhangzong:0 "ЧжанЦонг"
+ Loc_GetUImiaohao_zhaozong:0 "ЧжаоЦонг"
+ Loc_GetUImiaohao_zhezong:0 "ДжеЗонг"
+ Loc_GetUImiaohao_zhenzong:0 "ЖенЗонг"
+ Loc_GetUImiaohao_zhongzong:0 "Чжунцзонг"
+ Loc_GetUImiaohao_zhuangzong:0 "ЧжуанЦонг"
+ Loc_GetUImiaohao_none:0 ""
+ Loc_GetUIchinaTitleEmperor:0 "Император"
+ Loc_GetUIchinaTitleKing:0 "Король"
+
+
+  ### 议定庙号 ###
+ zhuifeng_decision:0 "Запечатать предков"
+ death_miaohao.001.title:0 "Определите имя храма"
+ death_miaohao.001.desc:0 "Я слышал, что нравственное воспитание важнее повседневной реформы, и книга ритуалов не падает с неба. Поэтому ущерб и польза предыдущих династий могут быть остановлены в любое время. Но уважение к предкам — это самое важное в императорском дворе. Теперь давайте решим имя храма для покойного императора."
+ death_miaohao.001.taizu:0 "Тайцзу, Создатель династии"
+ death_miaohao.001.shizu:0 "Шицзу, Восстановитель империи"
+ death_miaohao.001.a:0 "Анцзун, Примиритель"   #安宗  
+ death_miaohao.001.b:0 "Айцзун, Печальный"   #庙号哀宗 
+ death_miaohao.001.c:0 "Чэнцзун, Успешный"   #庙号成宗 
+ death_miaohao.001.d:0 "Чунгцзун, Почитаемый"   #庙号崇宗 
+ death_miaohao.001.e:0 "Чуньцзун, Чистый"   #庙号纯宗 
+ death_miaohao.001.f:0 "Дайцзун, Ответвляющий предок"   #庙号代宗 
+ death_miaohao.001.g:0 "Дайцзун, Высший"   #庙号戴宗 
+ death_miaohao.001.h:0 "Даоцу, Ученый даосизма"   #庙号道宗 
+ death_miaohao.001.i:0 "Дэцу, В хаосе"   #庙号德宗 
+ death_miaohao.001.j:0 "Динцзун, Создатель стабильности"   #庙号定宗 
+ death_miaohao.001.k:0 "Дуцы, Благородный"   #庙号度宗 
+ death_miaohao.001.l:0 "Дуаньцзун, Изгнанник"   #庙号端宗 
+ death_miaohao.001.m:0 "Гаоцзун, Начинающий упадок"   #庙号高宗 
+ death_miaohao.001.n:0 "Гунцзун, Почитаемый"   #庙号恭宗 
+ death_miaohao.001.o:0 "Гуанцзун, Великий возрождающий"   #庙号光宗 
+ death_miaohao.001.p:0 "Хуацзун, Запоминающийся"   #庙号怀宗 
+ death_miaohao.001.q:0 "Хэнцзун, Приверженец"   #庙号桓宗 
+ death_miaohao.001.r:0 "Хуэйцзун, Красивый создатель"   #庙号徽宗 
+ death_miaohao.001.s:0 "Хуэйцзун, На благо народа"   #庙号惠宗 
+ death_miaohao.001.t:0 "Цзянцзун, Простой"   #庙号简宗   
+ death_miaohao.001.u:0 "Цзинцзун, Возрождающий"   #庙号景宗 
+ death_miaohao.001.v:0 "Цзинцзун, Безумный"   #庙号敬宗 
+ death_miaohao.001.w:0 "Цзинцзун, Уничтожитель хаоса"   #庙号靖宗 
+ death_miaohao.001.x:0 "Канцзун, Крепкий"   #庙号康宗 
+ death_miaohao.001.y:0 "Лицзун, Мастер ритуалов"   #庙号礼宗 
+ death_miaohao.001.z:0 "Лицзун, Следующий закон"   #庙号理宗 
+ death_miaohao.001.a1:0 "Лецзун, Эмир-сепаратист"
+ death_miaohao.001.b1:0 "Мингцзун, Мудрец"  #庙号明宗 
+ death_miaohao.001.c1:0 "Муцзун, Преходящий монарх"  #庙号穆宗 
+ death_miaohao.001.d1:0 "Нинцзун, Миротворец"  #庙号宁宗 
+ death_miaohao.001.e1:0 "Цинцзун, Подчинитель"  #庙号钦宗 
+ death_miaohao.001.f1:0 "Жэньцзун, Благожелательный монарх"  #庙号仁宗 
+ death_miaohao.001.g1:0 "Жуйцзун, Мудрый"  #庙号睿宗 
+ death_miaohao.001.h1:0 "Шаоцзун, Монарх, продолжающий правление"  #庙号绍宗 
+ death_miaohao.001.i1:0 "Шэньцзун, Бумажный тигр"  #庙号神宗 
+ death_miaohao.001.j1:0 "Шэнцзун, Святой"  #庙号圣宗 
+ death_miaohao.001.k1:0 "Шицзун, Ответвляющий предок"  #庙号世宗 
+ death_miaohao.001.l1:0 "Сыцзун, Лучше чем ничего"  #庙号思宗 
+ death_miaohao.001.m1:0 "Шунцзун, Послушный"  #庙号顺宗 
+ death_miaohao.001.n1:0 "Суцзун, Очищающий"  #庙号肃宗 
+ death_miaohao.001.o1:0 "Тайцзун, Вечный основатель империи"  #庙号太宗 
+ death_miaohao.001.p1:0 "Вэйцзун, Могущественный"  #庙号威宗 
+ death_miaohao.001.q1:0 "Вэньцзун, Слабый"  #庙号文宗 
+ death_miaohao.001.r1:0 "Уцзун, Воинственный"  #庙号武宗 
+ death_miaohao.001.s1:0 "Сицьзун, Тиран"  #庙号熙宗 
+ death_miaohao.001.t1:0 "Сицьзун, Бледный рассвет"  #庙号熹宗 
+ death_miaohao.001.u1:0 "Сицьзун, Бледный"  #庙号僖宗 
+ death_miaohao.001.v1:0 "Сянцзун, Славный"  #庙号显宗 
+ death_miaohao.001.w1:0 "Сянцзун, Возрождающий"  #庙号宪宗 
+ death_miaohao.001.x1:0 "Сянцзун, Убежденный"  #庙号献宗 
+ death_miaohao.001.y1:0 "Сянцзун, Убитый невиновный"  #庙号襄宗 
+ death_miaohao.001.z1:0 "Сяоцу, Образец сыновней преданности"  #庙号孝宗 
+ death_miaohao.001.x2:0 "Синьцзун, Возрождающий"  #庙号兴宗 
+ death_miaohao.001.a2:0 "Сюаньцзун, Активный достиженец"  #庙号宣宗 
+ death_miaohao.001.b2:0 "Сюаньцзун, Эзотерический монарх"  #庙号玄宗 
+ death_miaohao.001.c2:0 "Ицзун, Мастер морали"  #庙号义宗 
+ death_miaohao.001.d2:0 "Ицзун, Лжец"  #庙号毅宗 
+ death_miaohao.001.e2:0 "Ицзун, Крыло!"  #庙号翼宗 
+ death_miaohao.001.f2:0 "Ицзун, Безумный"  #庙号懿宗 
+ death_miaohao.001.g2:0 "Инцзун, Преходящий монарх"  #庙号英宗 
+ death_miaohao.001.h2:0 "Юцзун, С благожелательностью и праведностью"  #庙号裕宗 
+ death_miaohao.001.i2:0 "Юаньцзун, Эзотерический монарх"  #庙号元
+ death_miaohao.001.j2:0 "Чжанцзун, Мудрец"  #庙号章宗 
+ death_miaohao.001.k2:0 "Чжаоцзун, Яркий свет"  #庙号昭宗 
+ death_miaohao.001.l2:0 "Жэцзун, Мастер философии"  #庙号哲宗 
+ death_miaohao.001.m2:0 "Жэньцзун, Мистик"  #庙号真宗 
+ death_miaohao.001.n2:0 "Чжунцзун, Возрождающий"  #庙号中宗 
+ d eath_miaohao.001.o2:0 "Чжуанцзун, Мощный"  #庙号庄宗
+
+ nick_the_tengrikhagan:0 "Тенгри Каган"

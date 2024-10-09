@@ -1,0 +1,56 @@
+﻿l_russian:
+ 
+
+Start_Population_Control_Decision:0 "Смерть настала"
+Start_Population_Control_Decision_desc:0 "Если вы чувствуете, что людей слишком много, попросите прекрасную мисс Смерть поработать сверхурочно, чтобы убрать тех, кто не должен существовать"
+Start_Population_Control_Decision_confirm:0 "Мой ЦП ограничен"
+Start_Population_Control_Decision_tooltip:0 "Смерть пришла, смерть ушла, и ЦП сэкономлен"
+Start_Population_Control_Decision_effect_tooltip:0 "Угадайте, сколько надгробий будет возведено следующим?"
+
+Stop_Population_Control_Decision:0 "Остановить охоту за душами"
+Stop_Population_Control_Decision_desc:0 "Остановите охоту за душами и больше не используйте силу смерти, чтобы убивать излишних людей"
+Stop_Population_Control_Decision_confirm:0 "Остановить охоту за душами"
+Stop_Population_Control_Decision_tooltip:0 "Остановить охоту за душами"
+Stop_Population_Control_Decision_effect_tooltip:0 "Остановить охоту за душами и пригласить мисс Миньюэ домой. Теперь эти профессионалы похорон могут отдохнуть, временно"
+
+rule_population_max_value:0 "Смерть настала - ограничения на очистку"
+setting_population_max_value_1:0 "Немного"
+setting_population_max_value_1_desc:0 "Как только население превысит 12500, Смерть начнет размахивать своей косой, чтобы пополнить кафе Звездного Света"
+setting_population_max_value_2:0 "Нормально"
+setting_population_max_value_2_desc:0 "Как только население превысит 22500, Смерть начнет размахивать своей косой, чтобы пополнить кафе Звездного Света"
+setting_population_max_value_3:0 "Больше"
+setting_population_max_value_3_desc:0 "Как только население превысит 32500, Смерть начнет размахивать своей косой, чтобы пополнить кафе Звездного Света"
+setting_population_max_value_4:0 "Много"
+setting_population_max_value_4_desc:0 "Как только население превысит 42500, Смерть начнет размахивать своей косой, чтобы пополнить кафе Звездного Света"
+
+rule_population_player_dynasty_safe_value:0 "Смерть настала - ограничения на семейное население"
+setting_population_player_dynasty_safe_value_1:0 "Немного"
+setting_population_player_dynasty_safe_value_1_desc:0 "Если в вашей семье более 250 человек, они не будут прощены косой смерти"
+setting_population_player_dynasty_safe_value_2:0 "Нормально"
+setting_population_player_dynasty_safe_value_2_desc:0 "Если в вашей семье более 500 человек, они не будут прощены косой смерти"
+setting_population_player_dynasty_safe_value_3:0 "Больше"
+setting_population_player_dynasty_safe_value_3_desc:0 "Если в вашей семье более 750 человек, они не будут прощены косой смерти"
+setting_population_player_dynasty_safe_value_4:0 "Много"
+setting_population_player_dynasty_safe_value_4_desc:0 "Если в вашей семье более 1000 человек, они не будут прощены косой смерти"
+setting_population_player_dynasty_safe_value_5:0 "Довольно много"
+setting_population_player_dynasty_safe_value_5_desc:0 "Если в вашей семье более 1500 человек, они не будут прощены косой смерти"
+setting_population_player_dynasty_safe_value_6:0 "Очень много"
+setting_population_player_dynasty_safe_value_6_desc:0 "Если в вашей семье более 2000 человек, они не будут прощены косой смерти"
+
+rule_population_m_isimprisoned_value:0 "Смерть настала - судьба заключенных"
+setting_population_m_isimprisoned_value_1:0 "по умолчанию"
+setting_population_m_isimprisoned_value_1_desc:0 "Заключенные так же вероятно будут добавлены в кафе Звездного Света, как и придворные"
+setting_population_m_isimprisoned_value_2:0 "Больше"
+setting_population_m_isimprisoned_value_2_desc:0 "Заключенные в два раза вероятнее будут добавлены в кафе Звездного Света, чем Тинчэнь"
+setting_population_m_isimprisoned_value_3:0 "Много"
+setting_population_m_isimprisoned_value_3_desc:0 "Заключенные в три раза вероятнее будут добавлены в кафе Звездного Света, чем Тинчэнь"
+setting_population_m_isimprisoned_value_4:0 "Так много!"
+setting_population_m_isimprisoned_value_4_desc:0 "Заключенные в четыре раза вероятнее будут добавлены в кафе Звездного Света, чем Тинчэнь"
+
+Population_Control_Child_Died_modifier:0 "Скорбь о потере"
+Population_Control_Child_Died_modifier_desc:0 "Персонаж очень грустит, потому что смерть унесла его детей"
+
+
+
+Population_Control_Stress_Mult_modifier:0 "Непоколебимый дух"
+Population_Control_Stress_Mult_modifier_desc:0 "Хотя его окружение недавно было унесено смертью, мужество этого персонажа можно назвать гимном человечества"

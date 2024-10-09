@@ -1,0 +1,43 @@
+﻿l_russian:
+##### Intro #####
+ oe_struggle.0501.t:1 "$tartaria_struggle$"
+ oe_struggle.0501.desc:1 "Внутренняя граница снова в огне. Граница между сельскохозяйственными угодьями и пастбищами, с разными укладами жизни, смешанными сообществами и пестрыми культурами, является местом пребывания кочевых племен, двигающихся на Юг, а также границей для развития фермерской власти, где империи с разными амбициями воюют друг с другом, а те, кто родился и умер здесь, неоднократно вынуждены выбирать между двумя силами.\n\n"
+ oe_struggle.0501.desc.involved:0 "Я не отдам свою землю и свой народ. Во имя [ROOT.Char.GetFaith.HighGodName] семья [ROOT.Char.GetHouse.GetNameNoTooltip] выдержит бурю и станет свидетелем моих великих дел.\n\n"
+ oe_struggle.0501.desc.interloper:0 "Пришло время мне взять ситуацию под контроль и свою судьбу. Я вижу все фигуры на шахматной доске. Я знаю путь вперед, и никто не сможет остановить мою семью [ROOT.Char.GetHouse.GetNameNoTooltip].\n\n"
+ oe_struggle.0501.desc.mottocall:0 "[ROOT.Char.GetHouse.GetMotto]！"
+ oe_struggle.0501.a:0 "Судьба в моих руках!"
+
+##### Hostility #####
+# Struggle Ender
+ oe_struggle.0900.t:0 "$struggle_tartaria_ending_hostility_decision$"
+ oe_struggle.0900.opening:0 "Хаос, который пережил фронтир в предыдущие века, оставил тень в сердцах всех его жителей. Сегодня мировая история открывает новую главу..."
+ oe_struggle.0900.desc:0 "\n\nВ настоящее время нет другой территории, которая могла бы по-настоящему конкурировать с [ROOT.Char.GetPrimaryTitle.GetAdjectiveNoTooltip], которая доминирует на границе, и не может помешать верующим и поселенцам захватить [ROOT.Char .GetFaith.HighGodName] ] и цивилизацию [ROOT.Char.GetCulture.GetName] в деревни на границе.\n\nПосле принятия решения о том, как продолжать наше правление, все, что осталось сделать, — это объявить о победе».
+ oe_struggle.0900.a:0 "Это должна быть земля [ROOT.Char.GetFaith.HighGodNameAlternate]!"
+ oe_struggle.0900.b:0 "Наша цель — создать жизнь на этом фронтире."
+ oe_struggle.0900.c:1 "[ROOT.Char.GetFaith.HighGodName] передаст границу народу [ROOT.Char.GetCulture.GetCollectiveNounNoTooltip]!"
+# Other Players
+oe_struggle.0910.opening.involved:0 "Надежда на избавление от неопределенности, которая веками преследовала этот регион, пусть и из другого мира, наконец-то может стать достижимой..."
+ oe_struggle.0910.opening:0 "Новости о недавних событиях в Крепости дошли до нашего двора, давая нам надежду на прекращение конфликта, опустошившего регион."
+ oe_struggle.0910.desc:0 "\n\n[struggle_ender.GetName] теперь контролирует большую часть мира и объявил [struggle_ender.GetHerselfHimself] окончательным победителем в борьбе, которая началась много лет назад с крахом Ханата. \ н\н"
+ oe_struggle.0910.closing.faith:0 "[struggle_ender.GetSheHe|U] объявляет границей землю [struggle_ender.GetFaith.GetAdjective] и, по воле [struggle_ender.GetFaith.HighGodName], всех еретиков и еретиков будет изгнано с территории [struggle_ender.GetHerHis]».
+ oe_struggle.0910.closing.cultural:0 "[struggle_ender.GetSheHe|U] заявил, что граница принадлежит народу [struggle_ender.GetCulture.GetName], позволяя всем иностранным захватчикам и завоеванным народам принять эту реальность."
+ oe_struggle.0910.closing.combined:0 "[struggle_ender.GetSheHe|U] заявляет, что Китай и [struggle_ender.GetPrimaryTitle.GetNameNoTier] — одно и то же, и теперь они доверены [struggle_ender.GetFaith.GetAdjective] пользователем [struggle_ender. GetFaith.HighGodName] [struggle_ender.GetCulture.GetName] человеческие руки..."
+ oe_struggle.0910.a:0 "Это еще не конец."
+ oe_struggle.0910.b:0 "Как интересно."
+##### Compromise #####
+# Struggle Ender
+oe_struggle.0901.t:0 "$struggle_tartaria_ending_compromise_decision$"
+ oe_struggle.0901.desc:0 "\n\nЕсли события будут развиваться так же, очевидно, что этот цикл кровопролития не остановится; мир не будет единым.\n\nМы должны довольствоваться [ROOT.Char .GetPrimaryTitle. GetNameNoTierNoTooltip], пусть пока другие пограничные монархи занимаются своими делами..."
+ oe_struggle.0901.a:0 "Это очень хорошо."
+ oe_struggle.0901.tt:0 "[THIS.Char.GetPrimaryTitle.GetDeJureLiege.GetNameNoTier] становится [de_jure|E][империей|E]"
+# Другие игроки
+ oe_struggle.0911.desc:0 "\n\n[struggle_ender.GetTitledFirstName] официально отказывается от любой попытки объединить мир под общей короной и объявляет вне закона титулы любого предпринимателя.\n\nВеками опыта Различные территории, созданные вторжениями и Реконкисты теперь слишком укоренились, чтобы их можно было объединить».
+ oe_struggle.0911.a:0 "Мы никогда не забудем мечту об объединении..."
+##### Примирение #####
+#StruggleEnder
+ oe_struggle.0902.t:0 "$struggle_tartaria_ending_conciliation_decision$"
+ oe_struggle.0902.desc:0 "\n\nПрисяжный сотрудник службы безопасности позаботится о том, чтобы различные народы региона могли жить свободно и поклоняться своим богам, и теперь только я могу это сделать.\n\nЕсли [ROOT.Char.GetFaith .HighGodName] позволяет оставить войны прошлого в прошлом, и другие пограничные принцы также увидят преимущества сосуществования».
+ oe_struggle.0902.a:0 "Отправьте вестника."
+# Другие игроки
+ oe_struggle.0912.desc:0 "\n\n[struggle_ender.GetPrimaryTitle.GetAdjectiveNoTooltip] объявляет, что права всех людей на свободное передвижение и богослужения будут гарантированы, а [struggle_ender.GetTitledFirstName] несет ответственность за их соблюдение, что получил широкое одобрение общественности. \n\nМногие люди с нетерпением ждут прекращения убийств на границе; возможно, на этот раз #EMP #!
+ oe_struggle.0912.a:0 "Действительно удивительно."

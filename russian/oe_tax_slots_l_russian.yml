@@ -1,0 +1,19 @@
+﻿l_russian:
+civil_tax_collector:0 "Гражданский"
+royal_treasury_taxation_tax_collector:0 "Королевское казначейство"
+tribal_affairs_special_rights_tax_collector:0 "Племенные дела"
+legion_special_rights_tax_collector:0 "Легион"
+penalty_special_rights_tax_collector:0 "Законное наказание"
+royal_house_special_rights_tax_collector:0 "Королевский дом"
+supervisory_special_rights_tax_collector:0 "Надзор"
+trading_special_rights_tax_collector:0 "Торговля и таможня"
+
+
+ mandate_modifier:0 "Мандат"
+ mandate_modifier_desc:0 "Дети королевских кланов, которые не принимают вассальную зависимость, но получают жалованье от Великого Государя в конце года и содержатся за счет имперской казны. Рост численности населения, питающегося сетью, в сочетании с уменьшением тягловой силы в конце концов захлестнет империю, символизируя поток провидения; возможно, вы попытаетесь сделать так, чтобы дети разделенных кланов были вынуждены сами себя обеспечивать."
+
+ MODIFIER_DEFINITION_VALUE_PER_HOUSE_UNLANDED_MEMBER:0 " \t#weak Увеличение за [unlanded|E] и не [claim|E] [house|E] член#!"
+ MODIFIER_DEFINITION_MAIN_DESC_HOUSE_UNLANDED:0 "Этот модификатор увеличивает количество членов [unlanded|E] и не [claim|E] [house|E] (#bold $MULTIPLIER|0$#!/#bold 200#!)"
+
+ titular_title_liege_modifier: "Титулярная зарплата"
+ titular_title_vassal_modifier: "Титульный оклад"

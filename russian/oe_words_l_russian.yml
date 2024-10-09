@@ -1,0 +1,32 @@
+﻿l_russian:
+crane:0 "Журавль"
+
+saber_attribute:0 "Сабля"
+accolade_saber:0 "Сабля"
+saber_attribute_modifie:0 "Сабля"
+
+
+poi_oe_natural_feature.visit: "Посетил [province.Custom('OE_NaturalFeatureName')]"
+TRAVEL_POINT_OF_INTEREST_TT_poi_oe_natural_feature: "#T [Province.Custom('OE_NaturalFeatureName')] \n#![Province.Custom('OE_NaturalFeatureDesc')]\n\n"
+
+silk_plantation.visit: "Посетил шелковую плантацию в [province.GetName]"
+TRAVEL_POINT_OF_INTEREST_TT_poi_silk_plantation: "[GetBuilding('silk_plantation_01').GetName]"
+
+pass: "Проход"
+pass_advantage:1 "[command_modifier_i|E][advantage|E] в проходе"
+pass_attrition_mult:1 "[command_modifier_i|E][losses|E] в проходе"
+pass_cancel_negative_supply:1 "[command_modifier_i|E]Отменить [supply_limit|E] штраф в проходе"
+pass_max_combat_roll:1 "[command_modifier_i|E]Максимальный [combat_roll|E] в проходе"
+pass_min_combat_roll:1 "[command_modifier_i|E]Минимальный [combat_roll|E] в проходе"
+pass_construction_gold_cost:0 "$MOD_CONSTRUCTION_GOLD_COST$ в проходе"
+pass_construction_prestige_cost:0 "$pass_construction_gold_cost$"
+pass_development_growth_factor:1 "$MOD_MONTHLY_DEVELOPMENT_GROWTH_FACTOR$ в проходе ([terrain|E])"
+pass_holding_construction_gold_cost:0 "$MOD_HOLDING_CONSTRUCTION_GOLD_COST$ в проходе"
+pass_holding_construction_prestige_cost:0 "$pass_holding_construction_gold_cost$"
+pass_tax_mult:0 "$MOD_TAX_MULT$ в проходе"
+pass_levy_size:0 "$MOD_LEVY_SIZE$ в проходе"
+pass_supply_limit_mult:0 "$MOD_SUPPLY_LIMIT_MULT$ в проходе"
+pass_travel_danger:0 "[GetTerrain('pass').GetName] [travel_danger|E]"
+
+canal_province_modifier: "Канал"
+great_wall_province_modifier: "Великая стена"
